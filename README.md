@@ -1,6 +1,6 @@
 # 2026 AI Engineer Jobs 🚀
 
-> An open, **auto-updated** list of AI Engineer roles. Updated 2026-06-28 · **60 live roles**.
+> An open, **auto-updated** list of AI Engineer roles. Updated 2026-06-29 · **60 live roles**.
 > Curated by [Landed](https://landed.b100x.ai) — scout, get **referred**, prep, and land AI-native jobs.
 
 ⭐ **Star this repo** to track new AI Engineer roles — it refreshes regularly.
