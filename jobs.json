@@ -1,6 +1,6 @@
 [
   {
-    "slug": "greenhouse-8029120",
+    "dedupeKey": "greenhouse:8029120",
     "company": "Reddit",
     "companyDomain": "reddit.com",
     "role": "Machine Learning Engineer, Ads Optimization & Ads Marketplace Quality",
@@ -26,7 +26,7 @@
     "posted": "2026-06-30T00:34:42.000Z"
   },
   {
-    "slug": "greenhouse-8022942",
+    "dedupeKey": "greenhouse:8022942",
     "company": "Reddit",
     "companyDomain": "reddit.com",
     "role": "Machine Learning Systems Engineer, Ads ML Platform",
@@ -49,7 +49,7 @@
     "posted": "2026-06-30T00:34:41.000Z"
   },
   {
-    "slug": "greenhouse-8022937",
+    "dedupeKey": "greenhouse:8022937",
     "company": "Reddit",
     "companyDomain": "reddit.com",
     "role": "Machine Learning Systems Engineer, Ads ML Platform",
@@ -72,7 +72,7 @@
     "posted": "2026-06-30T00:34:41.000Z"
   },
   {
-    "slug": "greenhouse-8022366",
+    "dedupeKey": "greenhouse:8022366",
     "company": "Reddit",
     "companyDomain": "reddit.com",
     "role": "Engineering Manager, Ads ML Efficiency",
@@ -93,7 +93,7 @@
     "posted": "2026-06-30T00:34:40.000Z"
   },
   {
-    "slug": "greenhouse-8022136",
+    "dedupeKey": "greenhouse:8022136",
     "company": "Reddit",
     "companyDomain": "reddit.com",
     "role": "Senior Machine Learning Systems Engineer, Ads ML Experience Platform",
@@ -117,7 +117,7 @@
     "posted": "2026-06-30T00:34:37.000Z"
   },
   {
-    "slug": "greenhouse-7768983",
+    "dedupeKey": "greenhouse:7768983",
     "company": "Reddit",
     "companyDomain": "reddit.com",
     "role": "Creative Technologist, KarmaLab",
@@ -140,7 +140,7 @@
     "posted": "2026-06-30T00:34:35.000Z"
   },
   {
-    "slug": "greenhouse-8027424",
+    "dedupeKey": "greenhouse:8027424",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Staff ML Engineer, Generative Model Performance & Efficiency",
@@ -179,7 +179,7 @@
     "posted": "2026-06-29T22:09:11.000Z"
   },
   {
-    "slug": "greenhouse-7426598",
+    "dedupeKey": "greenhouse:7426598",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Machine Learning Engineer, ML Flywheel",
@@ -204,7 +204,7 @@
     "posted": "2026-06-29T19:45:11.000Z"
   },
   {
-    "slug": "greenhouse-8504137002",
+    "dedupeKey": "greenhouse:8504137002",
     "company": "Lyft",
     "companyDomain": "lyft.com",
     "role": "Data Science Manager, Machine Learning - Lyft Ads",
@@ -240,7 +240,7 @@
     "posted": "2026-06-29T19:42:48.000Z"
   },
   {
-    "slug": "greenhouse-7731772",
+    "dedupeKey": "greenhouse:7731772",
     "company": "Reddit",
     "companyDomain": "reddit.com",
     "role": "Senior Machine Learning Systems Engineer",
@@ -270,7 +270,7 @@
     "posted": "2026-06-29T17:46:34.000Z"
   },
   {
-    "slug": "greenhouse-8026401",
+    "dedupeKey": "greenhouse:8026401",
     "company": "Reddit",
     "companyDomain": "reddit.com",
     "role": "Machine Learning Engineer",
@@ -296,32 +296,7 @@
     "posted": "2026-06-29T15:45:54.000Z"
   },
   {
-    "slug": "smartrecruiters-744000134708589",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "AI Architect",
-    "applyUrl": "",
-    "location": "Brussels, , Belgium",
-    "remote": "hybrid",
-    "level": "senior",
-    "skills": [
-      "python",
-      "computer vision",
-      "nlp",
-      "llm",
-      "deep learning",
-      "model evaluation",
-      "model deployment",
-      "cloud computing",
-      "azure",
-      "aws",
-      "ai strategy",
-      "mentoring"
-    ],
-    "posted": "2026-06-29T07:08:21.862Z"
-  },
-  {
-    "slug": "workday-r29082",
+    "dedupeKey": "workday:R29082",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "Data Scientist, Agentic Systems (Remote)",
@@ -347,7 +322,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr0000001770",
+    "dedupeKey": "workday:JR0000001770",
     "company": "TeamSystem",
     "companyDomain": "teamsystem.com",
     "role": "AI Engineer",
@@ -371,7 +346,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-569259",
+    "dedupeKey": "workday:569259",
     "company": "Philips Health Technology Innovation Paris",
     "companyDomain": "careers.philips.com",
     "role": "Technical Project Manager,",
@@ -403,7 +378,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-26wd99619",
+    "dedupeKey": "workday:26WD99619",
     "company": "Autodesk",
     "companyDomain": "autodesk.co.uk",
     "role": "Senior ML Engineer",
@@ -433,7 +408,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2020375",
+    "dedupeKey": "workday:JR2020375",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "AI Developer Technology Engineer",
@@ -459,7 +434,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2020240",
+    "dedupeKey": "workday:JR2020240",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Software Engineer, ML",
@@ -489,7 +464,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019599",
+    "dedupeKey": "workday:JR2019599",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior MLOps Manager",
@@ -515,7 +490,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-r1521041",
+    "dedupeKey": "workday:R1521041",
     "company": "IQVIA",
     "companyDomain": "iqvia.com",
     "role": "AI Engineer",
@@ -544,7 +519,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-4970360007",
+    "dedupeKey": "greenhouse:4970360007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Director of AI Engineering & Research, Frontier Systems",
@@ -568,7 +543,7 @@
     "posted": "2026-06-28T09:24:43.000Z"
   },
   {
-    "slug": "greenhouse-4995797007",
+    "dedupeKey": "greenhouse:4995797007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Machine Learning/MLOps Engineer",
@@ -593,7 +568,7 @@
     "posted": "2026-06-28T09:22:58.000Z"
   },
   {
-    "slug": "greenhouse-4927589007",
+    "dedupeKey": "greenhouse:4927589007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Machine Learning Engineer, Sentry Tower",
@@ -622,7 +597,7 @@
     "posted": "2026-06-28T09:21:37.000Z"
   },
   {
-    "slug": "greenhouse-4792948007",
+    "dedupeKey": "greenhouse:4792948007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Generative AI Integration Engineer",
@@ -642,7 +617,7 @@
     "posted": "2026-06-28T09:16:35.000Z"
   },
   {
-    "slug": "greenhouse-8024110",
+    "dedupeKey": "greenhouse:8024110",
     "company": "Samsara",
     "companyDomain": "samsara.com",
     "role": "Applied AI Specialist, Commercial Customer Success",
@@ -662,7 +637,7 @@
     "posted": "2026-06-28T07:06:20.000Z"
   },
   {
-    "slug": "ashby-3cdd0d39-f0b4-4255-837f-bcff17288143",
+    "dedupeKey": "ashby:3cdd0d39-f0b4-4255-837f-bcff17288143",
     "company": "Mirage",
     "companyDomain": "mirage.app",
     "role": "ML Engineer, Generative Video",
@@ -686,7 +661,7 @@
     "posted": "2026-06-28T00:09:35.009Z"
   },
   {
-    "slug": "ashby-8a526df3-acbc-4ca3-a38d-7333e9f54e4b",
+    "dedupeKey": "ashby:8a526df3-acbc-4ca3-a38d-7333e9f54e4b",
     "company": "Mirage",
     "companyDomain": "mirage.app",
     "role": "ML Engineer, Agentic Systems",
@@ -706,7 +681,7 @@
     "posted": "2026-06-28T00:09:14.321Z"
   },
   {
-    "slug": "workday-jr-006999",
+    "dedupeKey": "workday:JR-006999",
     "company": "Palo Alto Networks",
     "companyDomain": "paloaltonetworks.com",
     "role": "Principal Machine Learning Platform Engineer (Prisma AIRS)",
@@ -752,7 +727,7 @@
     "posted": "2026-06-28T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-7651403003",
+    "dedupeKey": "greenhouse:7651403003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Sr. Principal AI Systems Architect",
@@ -773,7 +748,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-7963516",
+    "dedupeKey": "greenhouse:7963516",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Technical Lead Manager, Prediction, ML Evaluation",
@@ -805,7 +780,7 @@
     "posted": "2026-06-27T01:16:58.000Z"
   },
   {
-    "slug": "greenhouse-5170708007",
+    "dedupeKey": "greenhouse:5170708007",
     "company": "Xaira Therapeutics",
     "companyDomain": "xaira.com",
     "role": "Lab Automation - Vision AI Engineer Intern",
@@ -825,7 +800,7 @@
     "posted": "2026-06-27T00:54:16.000Z"
   },
   {
-    "slug": "greenhouse-8341810002",
+    "dedupeKey": "greenhouse:8341810002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Software Engineer- Fullstack- Singapore",
@@ -855,7 +830,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8350956002",
+    "dedupeKey": "greenhouse:8350956002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Software Engineer- Singapore",
@@ -885,7 +860,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8350959002",
+    "dedupeKey": "greenhouse:8350959002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Software Engineer- Tokyo",
@@ -915,7 +890,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8091041002",
+    "dedupeKey": "greenhouse:8091041002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Applied AI Engineer",
@@ -944,7 +919,7 @@
     "posted": "2026-06-27T00:17:29.000Z"
   },
   {
-    "slug": "greenhouse-7958982002",
+    "dedupeKey": "greenhouse:7958982002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Staff Software Engineer - Machine Learning (Search)",
@@ -971,7 +946,7 @@
     "posted": "2026-06-27T00:17:29.000Z"
   },
   {
-    "slug": "greenhouse-7958688002",
+    "dedupeKey": "greenhouse:7958688002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Staff Software Engineer  (Search Ranking)",
@@ -997,7 +972,7 @@
     "posted": "2026-06-27T00:17:29.000Z"
   },
   {
-    "slug": "greenhouse-5151287007",
+    "dedupeKey": "greenhouse:5151287007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Perception Engineer, Machine Learning",
@@ -1028,7 +1003,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5165250007",
+    "dedupeKey": "greenhouse:5165250007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Software Engineer, Perception",
@@ -1053,7 +1028,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5173388007",
+    "dedupeKey": "greenhouse:5173388007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "AI Solutions Engineer, Talent Acquisition",
@@ -1072,7 +1047,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5136528007",
+    "dedupeKey": "greenhouse:5136528007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Machine Learning Engineer, RL / Locomotion",
@@ -1093,7 +1068,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5128295007",
+    "dedupeKey": "greenhouse:5128295007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Signal Processing Engineer, Space",
@@ -1118,7 +1093,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5115242007",
+    "dedupeKey": "greenhouse:5115242007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Signal Processing Engineer, Space",
@@ -1141,7 +1116,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5102920007",
+    "dedupeKey": "greenhouse:5102920007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Computer Vision Engineer",
@@ -1164,7 +1139,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5016403007",
+    "dedupeKey": "greenhouse:5016403007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Machine Learning Engineer",
@@ -1189,7 +1164,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5136832007",
+    "dedupeKey": "greenhouse:5136832007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Manipulation Engineer (Imitation Learning), Discovery",
@@ -1209,7 +1184,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5115291007",
+    "dedupeKey": "greenhouse:5115291007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Signal Processing Engineer, Space",
@@ -1232,7 +1207,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5173534007",
+    "dedupeKey": "greenhouse:5173534007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "AI Solutions Engineer, Talent Acquisition",
@@ -1251,7 +1226,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5171942007",
+    "dedupeKey": "greenhouse:5171942007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "AI Solutions Engineer, Talent Acquisition",
@@ -1270,7 +1245,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5114446007",
+    "dedupeKey": "greenhouse:5114446007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Computer Vision Engineer",
@@ -1293,7 +1268,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5128281007",
+    "dedupeKey": "greenhouse:5128281007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Signal Processing Engineer, Space",
@@ -1316,7 +1291,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5124926007",
+    "dedupeKey": "greenhouse:5124926007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Software Engineer, Perception",
@@ -1342,7 +1317,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "workday-jr2017369",
+    "dedupeKey": "workday:JR2017369",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Deep Learning Frameworks CUDA Software Engineer",
@@ -1374,7 +1349,7 @@
     "posted": "2026-06-27T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2017368",
+    "dedupeKey": "workday:JR2017368",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Software Engineer, CUDA Deep Learning Systems",
@@ -1415,7 +1390,7 @@
     "posted": "2026-06-27T00:00:00.000Z"
   },
   {
-    "slug": "workday-1208264",
+    "dedupeKey": "workday:1208264",
     "company": "HP Enterprise",
     "companyDomain": "hpe.com",
     "role": "Senior AI and Machine Learning Engineer",
@@ -1446,7 +1421,7 @@
     "posted": "2026-06-27T00:00:00.000Z"
   },
   {
-    "slug": "ashby-91e1c582-cceb-4e98-bc5a-caf2def45a0d",
+    "dedupeKey": "ashby:91e1c582-cceb-4e98-bc5a-caf2def45a0d",
     "company": "OpenAI",
     "companyDomain": "openai.com",
     "role": "Model Designer",
@@ -1465,7 +1440,7 @@
     "posted": "2026-06-26T23:56:02.695Z"
   },
   {
-    "slug": "greenhouse-5282664008",
+    "dedupeKey": "greenhouse:5282664008",
     "company": "You.com",
     "companyDomain": "you.com",
     "role": "Senior AI Engineer",
@@ -1484,7 +1459,7 @@
     "posted": "2026-06-26T22:46:32.000Z"
   },
   {
-    "slug": "greenhouse-7311835",
+    "dedupeKey": "greenhouse:7311835",
     "company": "Flexport",
     "companyDomain": "flexport.com",
     "role": "Senior Software Engineer: Applied AI",
@@ -1503,7 +1478,7 @@
     "posted": "2026-06-26T22:17:52.000Z"
   },
   {
-    "slug": "greenhouse-5209711008",
+    "dedupeKey": "greenhouse:5209711008",
     "company": "Anthropic",
     "companyDomain": "anthropic.com",
     "role": "Manager, Applied AI Engineering",
@@ -1522,7 +1497,7 @@
     "posted": "2026-06-26T21:38:05.000Z"
   },
   {
-    "slug": "greenhouse-8610775002",
+    "dedupeKey": "greenhouse:8610775002",
     "company": "Dialpad",
     "companyDomain": "dialpad.com",
     "role": "Sr AI Engineer - Agentic Systems",
@@ -1542,7 +1517,7 @@
     "posted": "2026-06-26T21:24:43.000Z"
   },
   {
-    "slug": "greenhouse-7983456",
+    "dedupeKey": "greenhouse:7983456",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Machine Learning Engineer, Payment Intelligence",
@@ -1568,7 +1543,7 @@
     "posted": "2026-06-26T21:05:46.000Z"
   },
   {
-    "slug": "greenhouse-7952048",
+    "dedupeKey": "greenhouse:7952048",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Machine Learning Engineer, Capital Underwriting",
@@ -1595,7 +1570,7 @@
     "posted": "2026-06-26T21:05:43.000Z"
   },
   {
-    "slug": "greenhouse-7939868",
+    "dedupeKey": "greenhouse:7939868",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Staff Software Engineer, Machine Learning Platform",
@@ -1626,7 +1601,7 @@
     "posted": "2026-06-26T21:05:43.000Z"
   },
   {
-    "slug": "greenhouse-7712852",
+    "dedupeKey": "greenhouse:7712852",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Staff Software Engineer, Machine Learning Platform",
@@ -1657,7 +1632,7 @@
     "posted": "2026-06-26T21:05:34.000Z"
   },
   {
-    "slug": "ashby-0cf19dbd-bfa9-425f-a357-e2bd874bb489",
+    "dedupeKey": "ashby:0cf19dbd-bfa9-425f-a357-e2bd874bb489",
     "company": "Cohere",
     "companyDomain": "cohere.com",
     "role": "Data Annotation Specialist, Safety",
@@ -1675,7 +1650,7 @@
     "posted": "2026-06-26T19:54:08.059Z"
   },
   {
-    "slug": "greenhouse-6960831",
+    "dedupeKey": "greenhouse:6960831",
     "company": "Reddit",
     "companyDomain": "reddit.com",
     "role": "Senior Machine Learning Engineer",
@@ -1704,7 +1679,7 @@
     "posted": "2026-06-26T19:48:01.000Z"
   },
   {
-    "slug": "greenhouse-8002993",
+    "dedupeKey": "greenhouse:8002993",
     "company": "6sense",
     "companyDomain": "6sense.com",
     "role": "Staff Enterprise AI Engineer",
@@ -1726,7 +1701,7 @@
     "posted": "2026-06-26T19:31:52.000Z"
   },
   {
-    "slug": "greenhouse-5620132004",
+    "dedupeKey": "greenhouse:5620132004",
     "company": "Housecall Pro",
     "companyDomain": "housecallpro.com",
     "role": "Graduate AI Solutions Analyst",
@@ -1746,7 +1721,7 @@
     "posted": "2026-06-26T18:38:58.000Z"
   },
   {
-    "slug": "greenhouse-6016754004",
+    "dedupeKey": "greenhouse:6016754004",
     "company": "Housecall Pro",
     "companyDomain": "housecallpro.com",
     "role": "Machine Learning Operations Engineer II",
@@ -1765,7 +1740,7 @@
     "posted": "2026-06-26T18:38:58.000Z"
   },
   {
-    "slug": "greenhouse-6016746004",
+    "dedupeKey": "greenhouse:6016746004",
     "company": "Housecall Pro",
     "companyDomain": "housecallpro.com",
     "role": " Software Engineer II - MLOps",
@@ -1785,7 +1760,7 @@
     "posted": "2026-06-26T18:38:58.000Z"
   },
   {
-    "slug": "greenhouse-5998109004",
+    "dedupeKey": "greenhouse:5998109004",
     "company": "Housecall Pro",
     "companyDomain": "housecallpro.com",
     "role": "Specialist, AI Solutions",
@@ -1805,7 +1780,7 @@
     "posted": "2026-06-26T18:38:58.000Z"
   },
   {
-    "slug": "greenhouse-4114661009",
+    "dedupeKey": "greenhouse:4114661009",
     "company": "Govini",
     "companyDomain": "govini.com",
     "role": "Data Science Manager, Forward Deployed",
@@ -1824,7 +1799,7 @@
     "posted": "2026-06-26T18:24:06.000Z"
   },
   {
-    "slug": "ashby-6897d024-88c1-43ed-adb8-5d2fc5eec984",
+    "dedupeKey": "ashby:6897d024-88c1-43ed-adb8-5d2fc5eec984",
     "company": "OpenAI",
     "companyDomain": "openai.com",
     "role": "Agent Post-Training, Artifacts Research",
@@ -1847,7 +1822,7 @@
     "posted": "2026-06-26T17:42:43.081Z"
   },
   {
-    "slug": "ashby-34c2ed3f-840f-4a68-9a00-0a0606660abf",
+    "dedupeKey": "ashby:34c2ed3f-840f-4a68-9a00-0a0606660abf",
     "company": "OpenAI",
     "companyDomain": "openai.com",
     "role": "Agent Post-Training, Computer Use Research",
@@ -1870,7 +1845,7 @@
     "posted": "2026-06-26T17:42:39.603Z"
   },
   {
-    "slug": "ashby-ab9adae3-54b5-457e-9938-77d3278d91a5",
+    "dedupeKey": "ashby:ab9adae3-54b5-457e-9938-77d3278d91a5",
     "company": "OpenAI",
     "companyDomain": "openai.com",
     "role": "Agent Post-Training, Connectors Research",
@@ -1889,7 +1864,7 @@
     "posted": "2026-06-26T17:42:35.498Z"
   },
   {
-    "slug": "ashby-df3edefb-6a8b-4ef6-b183-b3f96051783e",
+    "dedupeKey": "ashby:df3edefb-6a8b-4ef6-b183-b3f96051783e",
     "company": "OpenAI",
     "companyDomain": "openai.com",
     "role": "Agent Post-Training, Context Research",
@@ -1911,7 +1886,7 @@
     "posted": "2026-06-26T17:42:27.891Z"
   },
   {
-    "slug": "ashby-bb90d497-06ef-4bb9-878a-e797a19cd834",
+    "dedupeKey": "ashby:bb90d497-06ef-4bb9-878a-e797a19cd834",
     "company": "OpenAI",
     "companyDomain": "openai.com",
     "role": "Agent Post-Training, API & Power Users",
@@ -1929,7 +1904,7 @@
     "posted": "2026-06-26T17:42:14.347Z"
   },
   {
-    "slug": "greenhouse-4692572006",
+    "dedupeKey": "greenhouse:4692572006",
     "company": "Figure",
     "companyDomain": "figure.ai",
     "role": "Staff AI Inference and Acceleration Engineer",
@@ -1962,7 +1937,7 @@
     "posted": "2026-06-26T17:23:51.000Z"
   },
   {
-    "slug": "greenhouse-7934426002",
+    "dedupeKey": "greenhouse:7934426002",
     "company": "Faire Wholesale, Inc.",
     "companyDomain": "faire.com",
     "role": "Senior Applied AI/ML Scientist - Search",
@@ -1986,7 +1961,7 @@
     "posted": "2026-06-26T17:05:43.000Z"
   },
   {
-    "slug": "greenhouse-7934398002",
+    "dedupeKey": "greenhouse:7934398002",
     "company": "Faire Wholesale, Inc.",
     "companyDomain": "faire.com",
     "role": "Senior Applied AI/ML Scientist - Search",
@@ -2012,7 +1987,7 @@
     "posted": "2026-06-26T17:05:42.000Z"
   },
   {
-    "slug": "greenhouse-7746586",
+    "dedupeKey": "greenhouse:7746586",
     "company": "Samsara",
     "companyDomain": "samsara.com",
     "role": "Lead Machine Learning Engineer - ML Infrastructure",
@@ -2036,7 +2011,7 @@
     "posted": "2026-06-26T16:59:15.000Z"
   },
   {
-    "slug": "greenhouse-7721193",
+    "dedupeKey": "greenhouse:7721193",
     "company": "Samsara",
     "companyDomain": "samsara.com",
     "role": "Lead Machine Learning Engineer - ML Infrastructure ",
@@ -2057,93 +2032,7 @@
     "posted": "2026-06-26T16:58:03.000Z"
   },
   {
-    "slug": "smartrecruiters-6000000001188274",
-    "company": "Canva",
-    "companyDomain": "canva.com",
-    "role": "AI Quality Evaluator - German (12-month contract)",
-    "applyUrl": "",
-    "location": "Berlin, BE, Germany",
-    "remote": "remote",
-    "level": "mid",
-    "skills": [
-      "german",
-      "nlp",
-      "data annotation",
-      "quality assurance",
-      "llm evaluation",
-      "dataset creation",
-      "localization",
-      "cultural appropriateness",
-      "linguistic quality",
-      "english"
-    ],
-    "posted": "2026-06-26T16:00:20.169Z"
-  },
-  {
-    "slug": "smartrecruiters-6000000001188230",
-    "company": "Canva",
-    "companyDomain": "canva.com",
-    "role": "AI Quality Evaluator - French (12-month contract)",
-    "applyUrl": "",
-    "location": "Paris, IDF, France",
-    "remote": "remote",
-    "level": "mid",
-    "skills": [
-      "nlp",
-      "data_annotation",
-      "quality_assurance",
-      "french",
-      "english",
-      "dataset_creation",
-      "localization"
-    ],
-    "posted": "2026-06-26T15:55:37.266Z"
-  },
-  {
-    "slug": "smartrecruiters-6000000001188186",
-    "company": "Canva",
-    "companyDomain": "canva.com",
-    "role": "AI Quality Evaluator - Turkish (12-month contract)",
-    "applyUrl": "",
-    "location": "Istanbul, İstanbul, Turkey",
-    "remote": "onsite",
-    "level": "unknown",
-    "skills": [
-      "turkish",
-      "english",
-      "data_annotation",
-      "quality_evaluation",
-      "nlp",
-      "llm",
-      "cultural_appropriateness",
-      "dataset_creation",
-      "localization"
-    ],
-    "posted": "2026-06-26T15:48:18.176Z"
-  },
-  {
-    "slug": "smartrecruiters-6000000001188142",
-    "company": "Canva",
-    "companyDomain": "canva.com",
-    "role": "AI Quality Evaluator - Arabic (12 month contract)",
-    "applyUrl": "",
-    "location": "Cairo, Cairo Governorate, Egypt",
-    "remote": "remote",
-    "level": "unknown",
-    "skills": [
-      "arabic",
-      "nlp",
-      "data_annotation",
-      "quality_assurance",
-      "cultural_appropriateness",
-      "dataset_creation",
-      "localization",
-      "english"
-    ],
-    "posted": "2026-06-26T15:38:50.860Z"
-  },
-  {
-    "slug": "smartrecruiters-744000134506669",
+    "dedupeKey": "smartrecruiters:744000134506669",
     "company": "Nexthink",
     "companyDomain": "nexthink.com",
     "role": "Senior AI Engineer",
@@ -2172,7 +2061,7 @@
     "posted": "2026-06-26T15:38:28.675Z"
   },
   {
-    "slug": "greenhouse-8610312002",
+    "dedupeKey": "greenhouse:8610312002",
     "company": "Faire Wholesale, Inc.",
     "companyDomain": "faire.com",
     "role": "Senior Applied AI/ML Scientist - Compass ",
@@ -2192,7 +2081,7 @@
     "posted": "2026-06-26T15:20:37.000Z"
   },
   {
-    "slug": "greenhouse-8610263002",
+    "dedupeKey": "greenhouse:8610263002",
     "company": "Faire Wholesale, Inc.",
     "companyDomain": "faire.com",
     "role": "Senior Applied AI/ML Scientist - Compass ",
@@ -2213,7 +2102,7 @@
     "posted": "2026-06-26T15:20:36.000Z"
   },
   {
-    "slug": "greenhouse-8610095002",
+    "dedupeKey": "greenhouse:8610095002",
     "company": "Wayve",
     "companyDomain": "wayve.ai",
     "role": "Staff ML Engineer, Gaia ",
@@ -2240,7 +2129,7 @@
     "posted": "2026-06-26T15:13:25.000Z"
   },
   {
-    "slug": "ashby-0a29bcab-59eb-4766-941b-643b9fb011e5",
+    "dedupeKey": "ashby:0a29bcab-59eb-4766-941b-643b9fb011e5",
     "company": "WireScreen",
     "companyDomain": "wirescreen.ai",
     "role": "Machine Learning Engineer",
@@ -2264,7 +2153,7 @@
     "posted": "2026-06-26T14:50:32.821Z"
   },
   {
-    "slug": "ashby-2d4d224f-94d4-40ce-88d5-5d340bc0da4e",
+    "dedupeKey": "ashby:2d4d224f-94d4-40ce-88d5-5d340bc0da4e",
     "company": "Cohere",
     "companyDomain": "cohere.com",
     "role": "Senior Research Engineer - Safety Tooling and Data",
@@ -2284,7 +2173,7 @@
     "posted": "2026-06-26T13:55:28.453Z"
   },
   {
-    "slug": "ashby-6b80fa7d-efb7-4ef1-b884-c24b5790b163",
+    "dedupeKey": "ashby:6b80fa7d-efb7-4ef1-b884-c24b5790b163",
     "company": "Vetcove",
     "companyDomain": "vetcove.com",
     "role": "AI Integrations Staff Engineer",
@@ -2303,7 +2192,7 @@
     "posted": "2026-06-26T13:51:00.775Z"
   },
   {
-    "slug": "ashby-2228565c-1c44-4950-8595-1911a7a5fa82",
+    "dedupeKey": "ashby:2228565c-1c44-4950-8595-1911a7a5fa82",
     "company": "SpotOn",
     "companyDomain": "spoton.com",
     "role": "Senior Software Engineer - Python/Typescript",
@@ -2325,7 +2214,7 @@
     "posted": "2026-06-26T13:35:10.580Z"
   },
   {
-    "slug": "greenhouse-7786601003",
+    "dedupeKey": "greenhouse:7786601003",
     "company": "Celonis",
     "companyDomain": "celonis.com",
     "role": "THIS IS A TEST - do not apply",
@@ -2341,7 +2230,7 @@
     "posted": "2026-06-26T10:36:53.000Z"
   },
   {
-    "slug": "greenhouse-7334481",
+    "dedupeKey": "greenhouse:7334481",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Software Engineer, Post-Training & RL Frameworks",
@@ -2373,7 +2262,7 @@
     "posted": "2026-06-26T09:40:52.000Z"
   },
   {
-    "slug": "greenhouse-7999050",
+    "dedupeKey": "greenhouse:7999050",
     "company": "Pinterest",
     "companyDomain": "pinterest.com",
     "role": "Sr. Software Engineer, Machine Learning, tvScientific",
@@ -2405,7 +2294,7 @@
     "posted": "2026-06-26T07:11:24.000Z"
   },
   {
-    "slug": "ashby-1d87c80a-0e58-4745-a51f-8bd48bc73ca8",
+    "dedupeKey": "ashby:1d87c80a-0e58-4745-a51f-8bd48bc73ca8",
     "company": "Inferact",
     "companyDomain": "inferact.ai",
     "role": "Member of Technical Staff, AMD GPU Performance Engineering",
@@ -2427,7 +2316,7 @@
     "posted": "2026-06-26T04:01:04.022Z"
   },
   {
-    "slug": "ashby-76d942c3-fbb1-463d-ad79-0d9bfdcc37e9",
+    "dedupeKey": "ashby:76d942c3-fbb1-463d-ad79-0d9bfdcc37e9",
     "company": "Inferact",
     "companyDomain": "inferact.ai",
     "role": "Member of Technical Staff, TPU Performance Engineering",
@@ -2450,7 +2339,7 @@
     "posted": "2026-06-26T03:57:59.648Z"
   },
   {
-    "slug": "greenhouse-7617984",
+    "dedupeKey": "greenhouse:7617984",
     "company": "Roblox",
     "companyDomain": "roblox.com",
     "role": "Principal Machine Learning Engineer, Content Safety",
@@ -2477,7 +2366,7 @@
     "posted": "2026-06-26T03:22:06.000Z"
   },
   {
-    "slug": "ashby-1d001a7d-6d34-48b0-9520-9a3257e0f39c",
+    "dedupeKey": "ashby:1d001a7d-6d34-48b0-9520-9a3257e0f39c",
     "company": "Clera",
     "companyDomain": "getclera.com",
     "role": "Founding AI Engineer",
@@ -2499,7 +2388,7 @@
     "posted": "2026-06-26T01:28:40.373Z"
   },
   {
-    "slug": "greenhouse-7351220",
+    "dedupeKey": "greenhouse:7351220",
     "company": "Roblox",
     "companyDomain": "roblox.com",
     "role": "Senior Machine Learning Engineer, Ads",
@@ -2522,7 +2411,7 @@
     "posted": "2026-06-26T01:15:03.000Z"
   },
   {
-    "slug": "workday-r26-323",
+    "dedupeKey": "workday:R26_323",
     "company": "Arctic Wolf Networks",
     "companyDomain": "arcticwolf.com",
     "role": "Senior Manager, Artificial Intelligence",
@@ -2549,7 +2438,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "jazzhr-nmffsiogfq",
+    "dedupeKey": "jazzhr:NMFfsiOgFQ",
     "company": "H2O.ai",
     "companyDomain": "h2o.ai",
     "role": "Principal AI Engineer",
@@ -2580,7 +2469,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-r29023",
+    "dedupeKey": "workday:R29023",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "Sr. Data Scientist (Hybrid)",
@@ -2624,7 +2513,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr0285283",
+    "dedupeKey": "workday:JR0285283",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "Sr. Principal Engineer, AI Systems and Solutions",
@@ -2652,7 +2541,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-r18878",
+    "dedupeKey": "workday:R18878",
     "company": "Zoom",
     "companyDomain": "zoom.com",
     "role": "Audio AI Engineer",
@@ -2685,7 +2574,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-r159538",
+    "dedupeKey": "workday:R159538",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Sr Manager, Machine Learning Engineering",
@@ -2725,7 +2614,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr349270",
+    "dedupeKey": "workday:JR349270",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Sr. Director, Responsible AI Science and Engineering",
@@ -2754,7 +2643,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-r3097",
+    "dedupeKey": "workday:R3097",
     "company": "Workhuman",
     "companyDomain": "workhuman.com",
     "role": "AI Architect",
@@ -2788,7 +2677,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019751",
+    "dedupeKey": "workday:JR2019751",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Manager, Interactive World Model Platforms",
@@ -2814,7 +2703,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-1207833",
+    "dedupeKey": "workday:1207833",
     "company": "HP Enterprise",
     "companyDomain": "hpe.com",
     "role": "Lead AI Engineer",
@@ -2849,7 +2738,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-8557110002",
+    "dedupeKey": "greenhouse:8557110002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "AI Engineer, Platform Infrastructure, Special Programs",
@@ -2872,7 +2761,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8557219002",
+    "dedupeKey": "greenhouse:8557219002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "AI Engineer, Special Programs - Top Secret Clearance",
@@ -2892,7 +2781,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8441008002",
+    "dedupeKey": "greenhouse:8441008002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "AI Security Software Engineer (Starshield)",
@@ -2915,7 +2804,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8598844002",
+    "dedupeKey": "greenhouse:8598844002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "Application Software Engineer, Inference",
@@ -2943,7 +2832,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8557268002",
+    "dedupeKey": "greenhouse:8557268002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "Sr. AI Engineer, Special Programs",
@@ -2965,7 +2854,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8483823002",
+    "dedupeKey": "greenhouse:8483823002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "Sr. AI Security Software Engineer (Starshield)",
@@ -2989,7 +2878,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8394785002",
+    "dedupeKey": "greenhouse:8394785002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "Sr. Manager, Applied Computing (Starshield)",
@@ -3007,7 +2896,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8517346002",
+    "dedupeKey": "greenhouse:8517346002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "Sr. Software Engineer, Computer Vision",
@@ -3037,7 +2926,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8557038002",
+    "dedupeKey": "greenhouse:8557038002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "AI Engineer, Special Programs",
@@ -3059,7 +2948,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8483747002",
+    "dedupeKey": "greenhouse:8483747002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "AI Security Software Engineer (Starshield)",
@@ -3081,7 +2970,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8557126002",
+    "dedupeKey": "greenhouse:8557126002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "Sr. AI Engineer, Platform Infrastructure, Special Programs",
@@ -3108,7 +2997,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8557093002",
+    "dedupeKey": "greenhouse:8557093002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "Sr. AI Engineer, Special Programs - Top Secret Clearance",
@@ -3126,7 +3015,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8555142002",
+    "dedupeKey": "greenhouse:8555142002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "Sr. Software Engineer (Vehicle Engineering)",
@@ -3150,7 +3039,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8557252002",
+    "dedupeKey": "greenhouse:8557252002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "AI Engineer, Platform Infrastructure, Special Programs",
@@ -3173,7 +3062,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8557073002",
+    "dedupeKey": "greenhouse:8557073002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "AI Engineer, Special Programs - Top Secret Clearance",
@@ -3192,7 +3081,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8440980002",
+    "dedupeKey": "greenhouse:8440980002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "AI Security Software Engineer (Starshield)",
@@ -3214,7 +3103,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8569184002",
+    "dedupeKey": "greenhouse:8569184002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "Mission Integration Engineer, AI (Starshield) - Top Secret Clearance",
@@ -3239,7 +3128,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8559035002",
+    "dedupeKey": "greenhouse:8559035002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "ML Engineer, Surrogate Modeling (Vehicle Engineering)",
@@ -3267,7 +3156,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8557262002",
+    "dedupeKey": "greenhouse:8557262002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "Sr. AI Engineer, Platform Infrastructure, Special Programs",
@@ -3291,7 +3180,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8557272002",
+    "dedupeKey": "greenhouse:8557272002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "Sr. AI Engineer, Special Programs - Top Secret Clearance",
@@ -3309,7 +3198,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8441130002",
+    "dedupeKey": "greenhouse:8441130002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "Sr. AI Security Software Engineer (Starshield)",
@@ -3333,7 +3222,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8557208002",
+    "dedupeKey": "greenhouse:8557208002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "AI Engineer, Special Programs",
@@ -3355,7 +3244,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8559015002",
+    "dedupeKey": "greenhouse:8559015002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "AI Software Engineer (Vehicle Engineering)",
@@ -3379,7 +3268,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8557060002",
+    "dedupeKey": "greenhouse:8557060002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "Sr. AI Engineer, Special Programs",
@@ -3402,7 +3291,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "greenhouse-8441151002",
+    "dedupeKey": "greenhouse:8441151002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "Sr. AI Security Software Engineer (Starshield)",
@@ -3426,7 +3315,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "ashby-ac45b160-4ccc-417c-97f8-73d2d04cebfe",
+    "dedupeKey": "ashby:ac45b160-4ccc-417c-97f8-73d2d04cebfe",
     "company": "Perplexity",
     "companyDomain": "perplexity.ai",
     "role": "Member of Technical Staff (AI Software Engineer, Agents)",
@@ -3450,7 +3339,7 @@
     "posted": "2026-06-25T23:30:20.141Z"
   },
   {
-    "slug": "lever-4eca6d89-c813-4f50-969c-b3ea88b6b956",
+    "dedupeKey": "lever:4eca6d89-c813-4f50-969c-b3ea88b6b956",
     "company": "Mistral AI",
     "companyDomain": "mistral.ai",
     "role": "Applied AI Engineer, Fullstack",
@@ -3474,7 +3363,7 @@
     "posted": "2026-06-25T22:49:18.427Z"
   },
   {
-    "slug": "ashby-b96d4f8b-257b-4a82-8975-57e7fd885d87",
+    "dedupeKey": "ashby:b96d4f8b-257b-4a82-8975-57e7fd885d87",
     "company": "Inferact",
     "companyDomain": "inferact.ai",
     "role": "Member of Technical Staff, AMD GPU Performance Engineering",
@@ -3497,7 +3386,7 @@
     "posted": "2026-06-25T21:49:33.825Z"
   },
   {
-    "slug": "ashby-dd04061f-057c-48da-a84c-79ac1e369813",
+    "dedupeKey": "ashby:dd04061f-057c-48da-a84c-79ac1e369813",
     "company": "Epia Neuro",
     "companyDomain": "epianeuro.com",
     "role": "Senior Computer Vision Engineer",
@@ -3523,7 +3412,7 @@
     "posted": "2026-06-25T21:45:37.767Z"
   },
   {
-    "slug": "greenhouse-4679711006",
+    "dedupeKey": "greenhouse:4679711006",
     "company": "Everlaw",
     "companyDomain": "everlaw.com",
     "role": "Senior Software Engineer, AI Platform ",
@@ -3550,7 +3439,7 @@
     "posted": "2026-06-25T21:35:12.000Z"
   },
   {
-    "slug": "lever-ceb43b59-b44b-4f39-9ff3-d533e5d77935",
+    "dedupeKey": "lever:ceb43b59-b44b-4f39-9ff3-d533e5d77935",
     "company": "Mistral AI",
     "companyDomain": "mistral.ai",
     "role": "Senior/Staff Applied AI Engineer, Fullstack",
@@ -3577,7 +3466,7 @@
     "posted": "2026-06-25T21:18:30.113Z"
   },
   {
-    "slug": "ashby-29f8753e-5ff4-4bfd-9e83-b6ee6c2e8293",
+    "dedupeKey": "ashby:29f8753e-5ff4-4bfd-9e83-b6ee6c2e8293",
     "company": "Ironclad",
     "companyDomain": "ironcladapp.com",
     "role": "Finance Systems & AI Engineer",
@@ -3597,7 +3486,7 @@
     "posted": "2026-06-25T20:57:25.924Z"
   },
   {
-    "slug": "greenhouse-8227567002",
+    "dedupeKey": "greenhouse:8227567002",
     "company": "Faire Wholesale, Inc.",
     "companyDomain": "faire.com",
     "role": "Senior Applied AI/ML Scientist - Listing Quality",
@@ -3617,7 +3506,7 @@
     "posted": "2026-06-25T20:48:11.000Z"
   },
   {
-    "slug": "greenhouse-8227562002",
+    "dedupeKey": "greenhouse:8227562002",
     "company": "Faire Wholesale, Inc.",
     "companyDomain": "faire.com",
     "role": "Senior Applied AI/ML Scientist - Listing Quality",
@@ -3637,7 +3526,7 @@
     "posted": "2026-06-25T20:48:03.000Z"
   },
   {
-    "slug": "greenhouse-8552760002",
+    "dedupeKey": "greenhouse:8552760002",
     "company": "Alloy",
     "companyDomain": "alloy.com",
     "role": "Applied AI Engineer, Ops",
@@ -3659,7 +3548,7 @@
     "posted": "2026-06-25T20:33:00.000Z"
   },
   {
-    "slug": "greenhouse-8575033002",
+    "dedupeKey": "greenhouse:8575033002",
     "company": "Verana Health",
     "companyDomain": "veranahealth.com",
     "role": "Senior Director, Data Development",
@@ -3682,7 +3571,7 @@
     "posted": "2026-06-25T20:05:54.000Z"
   },
   {
-    "slug": "greenhouse-7940044",
+    "dedupeKey": "greenhouse:7940044",
     "company": "Pinterest",
     "companyDomain": "pinterest.com",
     "role": "Distinguished Engineer",
@@ -3714,7 +3603,7 @@
     "posted": "2026-06-25T18:14:57.000Z"
   },
   {
-    "slug": "ashby-8b9588da-448d-4df3-8eff-2925bbcf9308",
+    "dedupeKey": "ashby:8b9588da-448d-4df3-8eff-2925bbcf9308",
     "company": "Valence",
     "companyDomain": "valence.co",
     "role": "Staff Software Engineer, Applied AI",
@@ -3738,7 +3627,7 @@
     "posted": "2026-06-25T18:13:23.812Z"
   },
   {
-    "slug": "greenhouse-8569368002",
+    "dedupeKey": "greenhouse:8569368002",
     "company": "Chime",
     "companyDomain": "chime.com",
     "role": "AI/ML Engineer",
@@ -3756,7 +3645,7 @@
     "posted": "2026-06-25T18:08:14.000Z"
   },
   {
-    "slug": "greenhouse-8569366002",
+    "dedupeKey": "greenhouse:8569366002",
     "company": "Chime",
     "companyDomain": "chime.com",
     "role": "Senior AI/ML Engineer",
@@ -3784,7 +3673,7 @@
     "posted": "2026-06-25T18:08:14.000Z"
   },
   {
-    "slug": "greenhouse-8505460002",
+    "dedupeKey": "greenhouse:8505460002",
     "company": "Chime",
     "companyDomain": "chime.com",
     "role": "Software Engineer, Machine Learning Platform",
@@ -3813,7 +3702,7 @@
     "posted": "2026-06-25T18:08:14.000Z"
   },
   {
-    "slug": "ashby-4e120777-a87d-477f-9c7b-4b8449b659c2",
+    "dedupeKey": "ashby:4e120777-a87d-477f-9c7b-4b8449b659c2",
     "company": "Tabs",
     "companyDomain": "tabs.inc",
     "role": "Software Engineer, AI/ML",
@@ -3831,7 +3720,7 @@
     "posted": "2026-06-25T17:44:38.552Z"
   },
   {
-    "slug": "greenhouse-4709497005",
+    "dedupeKey": "greenhouse:4709497005",
     "company": "Flex",
     "companyDomain": "getflex.com",
     "role": "Go-To-Market (GTM) Engineer ",
@@ -3852,7 +3741,7 @@
     "posted": "2026-06-25T16:58:53.000Z"
   },
   {
-    "slug": "ashby-05904f9d-916f-4173-83f7-0dc0ac4ab608",
+    "dedupeKey": "ashby:05904f9d-916f-4173-83f7-0dc0ac4ab608",
     "company": "Teya",
     "companyDomain": "teya.com",
     "role": "Senior AI Engineer",
@@ -3882,7 +3771,7 @@
     "posted": "2026-06-25T16:48:10.879Z"
   },
   {
-    "slug": "ashby-8e630109-3da3-4648-beeb-9999e2bd0a5b",
+    "dedupeKey": "ashby:8e630109-3da3-4648-beeb-9999e2bd0a5b",
     "company": "Teya",
     "companyDomain": "teya.com",
     "role": "Senior Machine Learning Engineer",
@@ -3904,7 +3793,7 @@
     "posted": "2026-06-25T16:42:35.300Z"
   },
   {
-    "slug": "greenhouse-6101337004",
+    "dedupeKey": "greenhouse:6101337004",
     "company": "Turing AI",
     "companyDomain": "turing.ai",
     "role": "AI Engineering Lead, New York",
@@ -3927,7 +3816,7 @@
     "posted": "2026-06-25T16:28:01.000Z"
   },
   {
-    "slug": "lever-c1658cbc-3d0f-4188-9f4d-f4991bd3b0a3",
+    "dedupeKey": "lever:c1658cbc-3d0f-4188-9f4d-f4991bd3b0a3",
     "company": "CI&T",
     "companyDomain": "ciandt.com",
     "role": "[Job-30069] AI Engineer Specialist, Brazil",
@@ -3970,7 +3859,7 @@
     "posted": "2026-06-25T16:08:51.458Z"
   },
   {
-    "slug": "greenhouse-6101747004",
+    "dedupeKey": "greenhouse:6101747004",
     "company": "PlayStation",
     "companyDomain": "playstation.com",
     "role": "Senior Software Engineer, Machine Learning Platform",
@@ -4021,7 +3910,7 @@
     "posted": "2026-06-25T16:06:20.000Z"
   },
   {
-    "slug": "greenhouse-6100885004",
+    "dedupeKey": "greenhouse:6100885004",
     "company": "ExtraHop",
     "companyDomain": "extrahop.com",
     "role": "Sr Software Engineer, Data Science",
@@ -4051,7 +3940,7 @@
     "posted": "2026-06-25T15:39:36.000Z"
   },
   {
-    "slug": "greenhouse-5663271003",
+    "dedupeKey": "greenhouse:5663271003",
     "company": "Neuralink",
     "companyDomain": "neuralink.com",
     "role": "Machine Learning Engineer",
@@ -4071,7 +3960,7 @@
     "posted": "2026-06-25T15:31:32.000Z"
   },
   {
-    "slug": "greenhouse-4294212009",
+    "dedupeKey": "greenhouse:4294212009",
     "company": "Lila Sciences",
     "companyDomain": "lila.ai",
     "role": "Co-Op, ML Scientist for Biology",
@@ -4089,7 +3978,7 @@
     "posted": "2026-06-25T15:14:31.000Z"
   },
   {
-    "slug": "greenhouse-5281936008",
+    "dedupeKey": "greenhouse:5281936008",
     "company": "Tenable",
     "companyDomain": "tenable.com",
     "role": "Senior Localization Engineer, Applied AI",
@@ -4109,7 +3998,7 @@
     "posted": "2026-06-25T15:08:02.000Z"
   },
   {
-    "slug": "ashby-c2d3d3a8-f7b8-45f5-ad89-dba6ac14625c",
+    "dedupeKey": "ashby:c2d3d3a8-f7b8-45f5-ad89-dba6ac14625c",
     "company": "Synthesia",
     "companyDomain": "synthesia.io",
     "role": " ML Platform Engineer",
@@ -4130,7 +4019,7 @@
     "posted": "2026-06-25T14:06:22.368Z"
   },
   {
-    "slug": "greenhouse-6013277004",
+    "dedupeKey": "greenhouse:6013277004",
     "company": "Apptronik",
     "companyDomain": "apptronik.com",
     "role": "Senior Perception Learning Engineer - SLAM",
@@ -4159,7 +4048,7 @@
     "posted": "2026-06-25T14:02:35.000Z"
   },
   {
-    "slug": "greenhouse-5778404004",
+    "dedupeKey": "greenhouse:5778404004",
     "company": "Apptronik",
     "companyDomain": "apptronik.com",
     "role": "Senior Autonomy Software Engineer",
@@ -4180,7 +4069,7 @@
     "posted": "2026-06-25T14:02:33.000Z"
   },
   {
-    "slug": "greenhouse-5813673004",
+    "dedupeKey": "greenhouse:5813673004",
     "company": "Apptronik",
     "companyDomain": "apptronik.com",
     "role": "Senior Reinforcement Learning Engineer",
@@ -4206,7 +4095,7 @@
     "posted": "2026-06-25T14:02:33.000Z"
   },
   {
-    "slug": "greenhouse-5678268004",
+    "dedupeKey": "greenhouse:5678268004",
     "company": "Apptronik",
     "companyDomain": "apptronik.com",
     "role": "Senior Perception Learning Engineer ",
@@ -4236,7 +4125,7 @@
     "posted": "2026-06-25T14:02:32.000Z"
   },
   {
-    "slug": "ashby-ac7d124f-97d9-42c7-bb2b-675c26cf743d",
+    "dedupeKey": "ashby:ac7d124f-97d9-42c7-bb2b-675c26cf743d",
     "company": "Front",
     "companyDomain": "frontapp.com",
     "role": "Operations AI Engineer (Contract)",
@@ -4264,7 +4153,7 @@
     "posted": "2026-06-25T13:07:17.582Z"
   },
   {
-    "slug": "ashby-7a57e034-915d-4e44-9016-79fa3721b94a",
+    "dedupeKey": "ashby:7a57e034-915d-4e44-9016-79fa3721b94a",
     "company": "Front",
     "companyDomain": "frontapp.com",
     "role": "Operations AI Engineer (Contract)",
@@ -4294,7 +4183,7 @@
     "posted": "2026-06-25T13:07:05.384Z"
   },
   {
-    "slug": "greenhouse-8607712002",
+    "dedupeKey": "greenhouse:8607712002",
     "company": "Graphcore",
     "companyDomain": "graphcore.ai",
     "role": "Staff Engineer (ML Engineer)",
@@ -4315,7 +4204,7 @@
     "posted": "2026-06-25T11:19:32.000Z"
   },
   {
-    "slug": "greenhouse-8607711002",
+    "dedupeKey": "greenhouse:8607711002",
     "company": "Graphcore",
     "companyDomain": "graphcore.ai",
     "role": "Staff Engineer (ML Engineer)",
@@ -4336,7 +4225,7 @@
     "posted": "2026-06-25T11:19:31.000Z"
   },
   {
-    "slug": "greenhouse-8607710002",
+    "dedupeKey": "greenhouse:8607710002",
     "company": "Graphcore",
     "companyDomain": "graphcore.ai",
     "role": "Staff Engineer (ML Engineer)",
@@ -4358,7 +4247,7 @@
     "posted": "2026-06-25T11:19:30.000Z"
   },
   {
-    "slug": "greenhouse-8607697002",
+    "dedupeKey": "greenhouse:8607697002",
     "company": "Graphcore",
     "companyDomain": "graphcore.ai",
     "role": "Senior Engineer (ML Engineer)",
@@ -4381,7 +4270,7 @@
     "posted": "2026-06-25T11:14:18.000Z"
   },
   {
-    "slug": "greenhouse-8607695002",
+    "dedupeKey": "greenhouse:8607695002",
     "company": "Graphcore",
     "companyDomain": "graphcore.ai",
     "role": "Senior Engineer (ML Engineer)",
@@ -4404,7 +4293,7 @@
     "posted": "2026-06-25T11:14:16.000Z"
   },
   {
-    "slug": "greenhouse-8607696002",
+    "dedupeKey": "greenhouse:8607696002",
     "company": "Graphcore",
     "companyDomain": "graphcore.ai",
     "role": "Senior Engineer (ML Engineer)",
@@ -4427,7 +4316,7 @@
     "posted": "2026-06-25T11:14:16.000Z"
   },
   {
-    "slug": "lever-859595b6-931f-42c2-9176-25e6db187496",
+    "dedupeKey": "lever:859595b6-931f-42c2-9176-25e6db187496",
     "company": "Merlin Labs",
     "companyDomain": "merlinlabs.com",
     "role": "Lead AI Dataloop and Release Engineer",
@@ -4470,7 +4359,7 @@
     "posted": "2026-06-25T09:25:16.938Z"
   },
   {
-    "slug": "lever-cd87eba8-751c-4368-83ba-4b2207012e6d",
+    "dedupeKey": "lever:cd87eba8-751c-4368-83ba-4b2207012e6d",
     "company": "Merlin Labs",
     "companyDomain": "merlinlabs.com",
     "role": "Staff Software Engineer, AI Foundation Model",
@@ -4505,7 +4394,7 @@
     "posted": "2026-06-25T09:16:20.963Z"
   },
   {
-    "slug": "greenhouse-8023887",
+    "dedupeKey": "greenhouse:8023887",
     "company": "Dashlane",
     "companyDomain": "dashlane.com",
     "role": "Machine Learning Engineer ",
@@ -4532,7 +4421,7 @@
     "posted": "2026-06-25T09:12:51.000Z"
   },
   {
-    "slug": "lever-8329440c-0665-4a29-a388-7e67d755d3fa",
+    "dedupeKey": "lever:8329440c-0665-4a29-a388-7e67d755d3fa",
     "company": "Modulate",
     "companyDomain": "modulate.ai",
     "role": "Machine Learning Engineer",
@@ -4556,7 +4445,7 @@
     "posted": "2026-06-25T07:59:11.317Z"
   },
   {
-    "slug": "greenhouse-8491550002",
+    "dedupeKey": "greenhouse:8491550002",
     "company": "Graphcore",
     "companyDomain": "graphcore.ai",
     "role": "Pytorch Engineer",
@@ -4575,7 +4464,7 @@
     "posted": "2026-06-25T07:57:49.000Z"
   },
   {
-    "slug": "greenhouse-4907753101",
+    "dedupeKey": "greenhouse:4907753101",
     "company": "Cognite",
     "companyDomain": "cognite.com",
     "role": "India Template",
@@ -4591,7 +4480,7 @@
     "posted": "2026-06-25T06:23:07.000Z"
   },
   {
-    "slug": "greenhouse-4906944101",
+    "dedupeKey": "greenhouse:4906944101",
     "company": "Cognite",
     "companyDomain": "cognite.com",
     "role": "India Template",
@@ -4607,7 +4496,7 @@
     "posted": "2026-06-25T06:11:13.000Z"
   },
   {
-    "slug": "ashby-e57d196b-4fa0-4463-bd33-d8189f0d3541",
+    "dedupeKey": "ashby:e57d196b-4fa0-4463-bd33-d8189f0d3541",
     "company": "OpenAI",
     "companyDomain": "openai.com",
     "role": "Research Engineer / Research Scientist -Personal AGI, Proactivity ",
@@ -4625,7 +4514,7 @@
     "posted": "2026-06-25T05:25:53.586Z"
   },
   {
-    "slug": "greenhouse-7777672003",
+    "dedupeKey": "greenhouse:7777672003",
     "company": "ID.me",
     "companyDomain": "id.me",
     "role": "AI Enablement Engineer, IT ",
@@ -4649,7 +4538,7 @@
     "posted": "2026-06-25T01:49:26.000Z"
   },
   {
-    "slug": "greenhouse-7777668003",
+    "dedupeKey": "greenhouse:7777668003",
     "company": "ID.me",
     "companyDomain": "id.me",
     "role": "AI Enablement Engineer, IT",
@@ -4673,7 +4562,7 @@
     "posted": "2026-06-25T01:49:25.000Z"
   },
   {
-    "slug": "greenhouse-7777644003",
+    "dedupeKey": "greenhouse:7777644003",
     "company": "ID.me",
     "companyDomain": "id.me",
     "role": "AI Enablement Engineer, IT",
@@ -4698,7 +4587,7 @@
     "posted": "2026-06-25T01:49:23.000Z"
   },
   {
-    "slug": "greenhouse-7778315003",
+    "dedupeKey": "greenhouse:7778315003",
     "company": "ID.me",
     "companyDomain": "id.me",
     "role": "AI Enablement Engineer, IT",
@@ -4722,7 +4611,7 @@
     "posted": "2026-06-25T01:49:20.000Z"
   },
   {
-    "slug": "lever-e0b2f4f2-a223-4b52-9620-938521f103eb",
+    "dedupeKey": "lever:e0b2f4f2-a223-4b52-9620-938521f103eb",
     "company": "Shield AI",
     "companyDomain": "shield.ai",
     "role": "Object Detection and Tracking Engineer",
@@ -4752,7 +4641,7 @@
     "posted": "2026-06-25T00:50:25.983Z"
   },
   {
-    "slug": "ashby-cd84db2e-d3b2-4e24-8e27-764b9a87db44",
+    "dedupeKey": "ashby:cd84db2e-d3b2-4e24-8e27-764b9a87db44",
     "company": "Stuut",
     "companyDomain": "stuut.co",
     "role": "Member of Technical Staff — Audio and Voice AI",
@@ -4774,7 +4663,7 @@
     "posted": "2026-06-25T00:28:49.534Z"
   },
   {
-    "slug": "ashby-4acc3515-887f-4bc9-8c2a-00f36ae480c3",
+    "dedupeKey": "ashby:4acc3515-887f-4bc9-8c2a-00f36ae480c3",
     "company": "OpenAI",
     "companyDomain": "openai.com",
     "role": "Agent Post-Training Research",
@@ -4795,7 +4684,7 @@
     "posted": "2026-06-25T00:25:42.611Z"
   },
   {
-    "slug": "jazzhr-unzqtem1uy",
+    "dedupeKey": "jazzhr:UnZQtem1uy",
     "company": "H2O.ai",
     "companyDomain": "h2o.ai",
     "role": "Principal AI Engineer",
@@ -4829,7 +4718,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-r28297",
+    "dedupeKey": "workday:R28297",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "Data Analyst (Remote, ROU)",
@@ -4858,7 +4747,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr0282639",
+    "dedupeKey": "workday:JR0282639",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "AI Software Engineering Intern",
@@ -4883,7 +4772,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr0282641",
+    "dedupeKey": "workday:JR0282641",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "AI Software Engineering Intern",
@@ -4907,7 +4796,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr0284920",
+    "dedupeKey": "workday:JR0284920",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "AI Product Analyst Student for AI Solutions Group (Beer Sheva)",
@@ -4929,7 +4818,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr0285086",
+    "dedupeKey": "workday:JR0285086",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "Software Enabling and Optimization Engineer",
@@ -4956,7 +4845,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-r26-2976",
+    "dedupeKey": "workday:R26-2976",
     "company": "Plex Systems, Inc.",
     "companyDomain": "plex.com",
     "role": "AI Engineer",
@@ -4981,7 +4870,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-r26-3277",
+    "dedupeKey": "workday:R26-3277",
     "company": "Plex Systems, Inc.",
     "companyDomain": "plex.com",
     "role": "Quality Engineer(Digital&AI)",
@@ -5006,7 +4895,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-r169106",
+    "dedupeKey": "workday:R169106",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Senior Machine Learning Engineer, Services/MLOps",
@@ -5038,7 +4927,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-r64440",
+    "dedupeKey": "workday:R64440",
     "company": "Motorola Solutions",
     "companyDomain": "motorolasolutions.com",
     "role": "Machine Learning Engineer",
@@ -5066,7 +4955,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr-0108228",
+    "dedupeKey": "workday:JR-0108228",
     "company": "Workday",
     "companyDomain": "workday.com",
     "role": "Sr Machine Learning / AI Engineer / MLOps Engineer",
@@ -5097,7 +4986,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr-0107655",
+    "dedupeKey": "workday:JR-0107655",
     "company": "Workday",
     "companyDomain": "workday.com",
     "role": "Sr Machine Learning / AI Engineer / MLOps Engineer",
@@ -5130,7 +5019,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2011908",
+    "dedupeKey": "workday:JR2011908",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Deep Learning Framework Communications Engineer",
@@ -5161,7 +5050,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019867",
+    "dedupeKey": "workday:JR2019867",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior ML Compiler Engineer",
@@ -5186,7 +5075,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2018441",
+    "dedupeKey": "workday:JR2018441",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Applied AI Engineer, Product Simulation",
@@ -5215,7 +5104,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2020087",
+    "dedupeKey": "workday:JR2020087",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior System Software Engineer, Speech AI",
@@ -5247,7 +5136,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2020278",
+    "dedupeKey": "workday:JR2020278",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Deep Learning and Computer Vision Engineer - Autonomous Vehicles",
@@ -5276,7 +5165,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-4691989006",
+    "dedupeKey": "greenhouse:4691989006",
     "company": "NewsBreak",
     "companyDomain": "newsbreak.com",
     "role": " AI Engineer, Agentic Ad Creative (Multimodal)",
@@ -5308,7 +5197,7 @@
     "posted": "2026-06-24T23:14:33.000Z"
   },
   {
-    "slug": "greenhouse-7749649",
+    "dedupeKey": "greenhouse:7749649",
     "company": "Blue River Technology",
     "companyDomain": "bluerivertechnology.com",
     "role": "Sr CVML Engineer, Autonomy",
@@ -5331,7 +5220,7 @@
     "posted": "2026-06-24T22:25:24.000Z"
   },
   {
-    "slug": "ashby-aaa8928d-7d07-4859-86c1-eb39c4c4cbd3",
+    "dedupeKey": "ashby:aaa8928d-7d07-4859-86c1-eb39c4c4cbd3",
     "company": "Medal",
     "companyDomain": "medal.tv",
     "role": "Technical Interns and New Grads",
@@ -5351,7 +5240,7 @@
     "posted": "2026-06-24T21:15:31.524Z"
   },
   {
-    "slug": "greenhouse-4257766009",
+    "dedupeKey": "greenhouse:4257766009",
     "company": "Ambiq",
     "companyDomain": "ambiq.com",
     "role": "Principal Edge AI Firmware Engineer",
@@ -5375,7 +5264,7 @@
     "posted": "2026-06-24T20:44:44.000Z"
   },
   {
-    "slug": "greenhouse-7658241",
+    "dedupeKey": "greenhouse:7658241",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Ads AI Analytics Lead II",
@@ -5401,7 +5290,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7495338",
+    "dedupeKey": "greenhouse:7495338",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Ads AI Analytics Lead II",
@@ -5426,7 +5315,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7759475",
+    "dedupeKey": "greenhouse:7759475",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Engineering Manager, Machine Learning (Caper)",
@@ -5449,7 +5338,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-5917202",
+    "dedupeKey": "greenhouse:5917202",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Machine Learning Engineer, PhD Intern (Fall)",
@@ -5473,7 +5362,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7532267",
+    "dedupeKey": "greenhouse:7532267",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Machine Learning PhD Intern, Economics (Fall)",
@@ -5496,7 +5385,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7793391",
+    "dedupeKey": "greenhouse:7793391",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior Applied Scientist II, Ads Optimization",
@@ -5521,7 +5410,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7963838",
+    "dedupeKey": "greenhouse:7963838",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior Machine Learning Engineer II, Ads Response Prediction",
@@ -5551,7 +5440,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7565508",
+    "dedupeKey": "greenhouse:7565508",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior Machine Learning Engineer II, Search & Recommendations Ranking",
@@ -5577,7 +5466,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7793089",
+    "dedupeKey": "greenhouse:7793089",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior Machine Learning Engineer, Operations Research",
@@ -5601,7 +5490,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7996528",
+    "dedupeKey": "greenhouse:7996528",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior Machine Learning Engineer, Search & Recommendations",
@@ -5627,7 +5516,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7974573",
+    "dedupeKey": "greenhouse:7974573",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior Software Engineer, AI Productivity",
@@ -5655,7 +5544,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7951041",
+    "dedupeKey": "greenhouse:7951041",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior Software Engineer II, AI Labs & Foundations",
@@ -5679,7 +5568,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7951087",
+    "dedupeKey": "greenhouse:7951087",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior Software Engineer II, (ML/AI Platform)",
@@ -5698,7 +5587,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7960680",
+    "dedupeKey": "greenhouse:7960680",
     "company": "Robinhood",
     "companyDomain": "robinhood.com",
     "role": "Machine Learning Engineer",
@@ -5728,7 +5617,7 @@
     "posted": "2026-06-24T20:17:10.000Z"
   },
   {
-    "slug": "greenhouse-7844218",
+    "dedupeKey": "greenhouse:7844218",
     "company": "Robinhood",
     "companyDomain": "robinhood.com",
     "role": "Senior Engineering Manager, AI Research and Development",
@@ -5746,7 +5635,7 @@
     "posted": "2026-06-24T20:17:10.000Z"
   },
   {
-    "slug": "greenhouse-7976529",
+    "dedupeKey": "greenhouse:7976529",
     "company": "Robinhood",
     "companyDomain": "robinhood.com",
     "role": "Senior Machine Learning Engineer",
@@ -5774,7 +5663,7 @@
     "posted": "2026-06-24T20:17:10.000Z"
   },
   {
-    "slug": "greenhouse-7975563",
+    "dedupeKey": "greenhouse:7975563",
     "company": "Robinhood",
     "companyDomain": "robinhood.com",
     "role": "Senior Software Engineer",
@@ -5800,7 +5689,7 @@
     "posted": "2026-06-24T20:17:10.000Z"
   },
   {
-    "slug": "greenhouse-7975557",
+    "dedupeKey": "greenhouse:7975557",
     "company": "Robinhood",
     "companyDomain": "robinhood.com",
     "role": "Software Engineer",
@@ -5824,7 +5713,7 @@
     "posted": "2026-06-24T20:17:10.000Z"
   },
   {
-    "slug": "greenhouse-7975558",
+    "dedupeKey": "greenhouse:7975558",
     "company": "Robinhood",
     "companyDomain": "robinhood.com",
     "role": "Software Engineer",
@@ -5848,7 +5737,7 @@
     "posted": "2026-06-24T20:17:10.000Z"
   },
   {
-    "slug": "greenhouse-5173208007",
+    "dedupeKey": "greenhouse:5173208007",
     "company": "xAI",
     "companyDomain": "x.ai",
     "role": "Member of Technical Staff",
@@ -5875,7 +5764,7 @@
     "posted": "2026-06-24T19:28:53.000Z"
   },
   {
-    "slug": "greenhouse-7137941",
+    "dedupeKey": "greenhouse:7137941",
     "company": "Nuro",
     "companyDomain": "nuro.ai",
     "role": "Staff Software Engineer, Behavior ML Data",
@@ -5906,7 +5795,7 @@
     "posted": "2026-06-24T19:14:55.000Z"
   },
   {
-    "slug": "greenhouse-5173147007",
+    "dedupeKey": "greenhouse:5173147007",
     "company": "xAI",
     "companyDomain": "x.ai",
     "role": "Member of Technical Staff",
@@ -5930,7 +5819,7 @@
     "posted": "2026-06-24T19:08:08.000Z"
   },
   {
-    "slug": "greenhouse-5173142007",
+    "dedupeKey": "greenhouse:5173142007",
     "company": "xAI",
     "companyDomain": "x.ai",
     "role": "Member of Technical Staff",
@@ -5957,7 +5846,7 @@
     "posted": "2026-06-24T19:05:16.000Z"
   },
   {
-    "slug": "ashby-9b5477f4-97af-4aaa-b855-910c982ce191",
+    "dedupeKey": "ashby:9b5477f4-97af-4aaa-b855-910c982ce191",
     "company": "Genmo",
     "companyDomain": "genmo.ai",
     "role": "Research Engineer (New Grad)",
@@ -5979,7 +5868,7 @@
     "posted": "2026-06-24T18:49:38.058Z"
   },
   {
-    "slug": "greenhouse-6100673004",
+    "dedupeKey": "greenhouse:6100673004",
     "company": "Grafana Labs",
     "companyDomain": "grafana.com",
     "role": "Staff AI Engineer - Grafana AI/ML | Canada | Remote",
@@ -6003,7 +5892,7 @@
     "posted": "2026-06-24T18:37:40.000Z"
   },
   {
-    "slug": "greenhouse-6100672004",
+    "dedupeKey": "greenhouse:6100672004",
     "company": "Grafana Labs",
     "companyDomain": "grafana.com",
     "role": "Staff AI Engineer - Grafana AI/ML | USA | Remote",
@@ -6027,7 +5916,7 @@
     "posted": "2026-06-24T18:37:39.000Z"
   },
   {
-    "slug": "greenhouse-7741663",
+    "dedupeKey": "greenhouse:7741663",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Principal Software Engineer, AI Engineering",
@@ -6054,7 +5943,7 @@
     "posted": "2026-06-24T18:05:45.000Z"
   },
   {
-    "slug": "greenhouse-7649414",
+    "dedupeKey": "greenhouse:7649414",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Staff Software Engineer, AI",
@@ -6084,7 +5973,7 @@
     "posted": "2026-06-24T18:05:34.000Z"
   },
   {
-    "slug": "greenhouse-5427890004",
+    "dedupeKey": "greenhouse:5427890004",
     "company": "Correlation One",
     "companyDomain": "correlation-one.com",
     "role": "AI Coach (Gemini, Copilot, ChatGPT, Claude)",
@@ -6104,7 +5993,7 @@
     "posted": "2026-06-24T17:55:38.000Z"
   },
   {
-    "slug": "greenhouse-5500295004",
+    "dedupeKey": "greenhouse:5500295004",
     "company": "Correlation One",
     "companyDomain": "correlation-one.com",
     "role": "AI Coach (Gemini, Copilot, ChatGPT, Claude)",
@@ -6126,7 +6015,7 @@
     "posted": "2026-06-24T17:55:38.000Z"
   },
   {
-    "slug": "greenhouse-5459013004",
+    "dedupeKey": "greenhouse:5459013004",
     "company": "Correlation One",
     "companyDomain": "correlation-one.com",
     "role": "Lead Instructor: GenAI ",
@@ -6144,7 +6033,7 @@
     "posted": "2026-06-24T17:55:38.000Z"
   },
   {
-    "slug": "greenhouse-5799850004",
+    "dedupeKey": "greenhouse:5799850004",
     "company": "Correlation One",
     "companyDomain": "correlation-one.com",
     "role": "Lead Instructor: Machine Learning Data Associate",
@@ -6166,7 +6055,7 @@
     "posted": "2026-06-24T17:55:38.000Z"
   },
   {
-    "slug": "greenhouse-5802065004",
+    "dedupeKey": "greenhouse:5802065004",
     "company": "Correlation One",
     "companyDomain": "correlation-one.com",
     "role": "Teaching Assistant: Machine Learning Data Associate",
@@ -6186,7 +6075,7 @@
     "posted": "2026-06-24T17:55:38.000Z"
   },
   {
-    "slug": "greenhouse-8017572",
+    "dedupeKey": "greenhouse:8017572",
     "company": "Amperity",
     "companyDomain": "amperity.com",
     "role": "Senior Machine Learning Engineer",
@@ -6213,7 +6102,7 @@
     "posted": "2026-06-24T17:54:09.000Z"
   },
   {
-    "slug": "greenhouse-5277834008",
+    "dedupeKey": "greenhouse:5277834008",
     "company": "Anthropic",
     "companyDomain": "anthropic.com",
     "role": "Manager, Applied AI Engineering,  Life Sciences (Beneficial Deployments)",
@@ -6235,7 +6124,7 @@
     "posted": "2026-06-24T17:51:42.000Z"
   },
   {
-    "slug": "ashby-0b36f32d-6958-4110-9164-e7cdc14f1325",
+    "dedupeKey": "ashby:0b36f32d-6958-4110-9164-e7cdc14f1325",
     "company": "Pangram Labs",
     "companyDomain": "pangram.com",
     "role": "Computer Vision Engineer",
@@ -6262,7 +6151,7 @@
     "posted": "2026-06-24T17:42:53.047Z"
   },
   {
-    "slug": "smartrecruiters-744000134004945",
+    "dedupeKey": "smartrecruiters:744000134004945",
     "company": "Intuitive",
     "companyDomain": "intuitive.com",
     "role": "Mgr Clinical Data",
@@ -6288,7 +6177,7 @@
     "posted": "2026-06-24T17:40:53.833Z"
   },
   {
-    "slug": "greenhouse-7751648003",
+    "dedupeKey": "greenhouse:7751648003",
     "company": "CookUnity",
     "companyDomain": "cookunity.com",
     "role": "AI Native Engineer",
@@ -6312,7 +6201,7 @@
     "posted": "2026-06-24T17:36:32.000Z"
   },
   {
-    "slug": "greenhouse-7751601003",
+    "dedupeKey": "greenhouse:7751601003",
     "company": "CookUnity",
     "companyDomain": "cookunity.com",
     "role": "AI Native Engineer",
@@ -6333,7 +6222,7 @@
     "posted": "2026-06-24T17:35:55.000Z"
   },
   {
-    "slug": "greenhouse-8008825",
+    "dedupeKey": "greenhouse:8008825",
     "company": "Omada Health",
     "companyDomain": "omadahealth.com",
     "role": "Senior Applied AI Engineer",
@@ -6361,43 +6250,7 @@
     "posted": "2026-06-24T17:27:07.000Z"
   },
   {
-    "slug": "smartrecruiters-744000133999869",
-    "company": "Septeo",
-    "companyDomain": "septeo.com",
-    "role": "ML Ops Engineer H/F",
-    "applyUrl": "",
-    "location": "Courbevoie, IDF, France",
-    "remote": "onsite",
-    "level": "unknown",
-    "skills": [
-      "mlops",
-      "llm",
-      "kubernetes",
-      "ci_cd",
-      "azure_devops",
-      "helm",
-      "docker",
-      "pytorch",
-      "tensorflow",
-      "onnx",
-      "triton_inference_server",
-      "prometheus",
-      "grafana",
-      "opentelemetry",
-      "terraform",
-      "ansible",
-      "sre",
-      "finops",
-      "rag",
-      "vector_databases",
-      "langchain",
-      "semantic_kernel",
-      "litellm"
-    ],
-    "posted": "2026-06-24T16:59:11.741Z"
-  },
-  {
-    "slug": "lever-769a3ed2-3895-49a6-9ab2-e587ec25393a",
+    "dedupeKey": "lever:769a3ed2-3895-49a6-9ab2-e587ec25393a",
     "company": "PayJoy",
     "companyDomain": "payjoy.com",
     "role": "Machine Learning Engineer - Data Science",
@@ -6424,7 +6277,7 @@
     "posted": "2026-06-24T16:51:27.962Z"
   },
   {
-    "slug": "lever-4eabe147-7c4c-44a1-bc36-6cec2c47d5c5",
+    "dedupeKey": "lever:4eabe147-7c4c-44a1-bc36-6cec2c47d5c5",
     "company": "PayJoy",
     "companyDomain": "payjoy.com",
     "role": "Machine Learning Engineer - Fraud",
@@ -6453,7 +6306,7 @@
     "posted": "2026-06-24T16:45:19.744Z"
   },
   {
-    "slug": "greenhouse-4690883006",
+    "dedupeKey": "greenhouse:4690883006",
     "company": "Gong",
     "companyDomain": "gong.io",
     "role": "Senior ML Applied Research Scientist",
@@ -6474,7 +6327,7 @@
     "posted": "2026-06-24T15:16:14.000Z"
   },
   {
-    "slug": "greenhouse-7996955",
+    "dedupeKey": "greenhouse:7996955",
     "company": "Monzo Bank",
     "companyDomain": "monzo.com",
     "role": "Senior Machine Learning Manager, Borrowing",
@@ -6497,7 +6350,7 @@
     "posted": "2026-06-24T14:29:27.000Z"
   },
   {
-    "slug": "greenhouse-8545371002",
+    "dedupeKey": "greenhouse:8545371002",
     "company": "Wayve",
     "companyDomain": "wayve.ai",
     "role": "Staff ML Performance Engineer (Inference Optimisation)",
@@ -6527,7 +6380,7 @@
     "posted": "2026-06-24T12:48:06.000Z"
   },
   {
-    "slug": "smartrecruiters-744000133940379",
+    "dedupeKey": "smartrecruiters:744000133940379",
     "company": "Assystem",
     "companyDomain": "assystem.com",
     "role": "Data Scientist IA H/F",
@@ -6555,32 +6408,7 @@
     "posted": "2026-06-24T12:47:14.751Z"
   },
   {
-    "slug": "smartrecruiters-744000133931960",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "KI- Ingeniør ",
-    "applyUrl": "",
-    "location": "Stavanger, , Norway",
-    "remote": "hybrid",
-    "level": "mid",
-    "skills": [
-      "llm",
-      "rag",
-      "agents",
-      "generative_ai",
-      "api_integration",
-      "azure_openai",
-      "python",
-      "typescript",
-      "prompt_engineering",
-      "responsible_ai",
-      "mlops",
-      "data_governance"
-    ],
-    "posted": "2026-06-24T12:26:06.548Z"
-  },
-  {
-    "slug": "ashby-628b9161-ed23-483c-8601-eb29be76c7de",
+    "dedupeKey": "ashby:628b9161-ed23-483c-8601-eb29be76c7de",
     "company": "ILLUIN Technology",
     "companyDomain": "illuin.tech",
     "role": "Senior Data Scientist / AI Engineer (F/H) ",
@@ -6603,7 +6431,7 @@
     "posted": "2026-06-24T12:11:41.350Z"
   },
   {
-    "slug": "smartrecruiters-744000133930538",
+    "dedupeKey": "smartrecruiters:744000133930538",
     "company": "Cint",
     "companyDomain": "cint.com",
     "role": "Staff MLOps Engineer (AI/ML Platform)",
@@ -6643,7 +6471,7 @@
     "posted": "2026-06-24T12:05:57.658Z"
   },
   {
-    "slug": "smartrecruiters-744000133930114",
+    "dedupeKey": "smartrecruiters:744000133930114",
     "company": "Cint",
     "companyDomain": "cint.com",
     "role": "Staff MLOps Engineer (AI/ML Platform)",
@@ -6682,7 +6510,7 @@
     "posted": "2026-06-24T12:05:07.726Z"
   },
   {
-    "slug": "greenhouse-5972557004",
+    "dedupeKey": "greenhouse:5972557004",
     "company": "Isomorphic Labs",
     "companyDomain": "isomorphiclabs.com",
     "role": "Head of Computational Drug Design, Cambridge, MA",
@@ -6715,7 +6543,7 @@
     "posted": "2026-06-24T11:52:01.000Z"
   },
   {
-    "slug": "ashby-4cb5d826-5eff-4a1b-93af-7d9cfc084b15",
+    "dedupeKey": "ashby:4cb5d826-5eff-4a1b-93af-7d9cfc084b15",
     "company": "CoMind",
     "companyDomain": "comind.io",
     "role": "Principal Data Scientist",
@@ -6738,7 +6566,7 @@
     "posted": "2026-06-24T10:55:54.152Z"
   },
   {
-    "slug": "ashby-8af8a974-ae53-4dbb-bbc1-f5eb3222fc1a",
+    "dedupeKey": "ashby:8af8a974-ae53-4dbb-bbc1-f5eb3222fc1a",
     "company": "Gorgias",
     "companyDomain": "gorgias.com",
     "role": "Principal AI Engineer",
@@ -6763,7 +6591,7 @@
     "posted": "2026-06-24T10:07:25.438Z"
   },
   {
-    "slug": "greenhouse-7762505003",
+    "dedupeKey": "greenhouse:7762505003",
     "company": "Celonis",
     "companyDomain": "celonis.com",
     "role": "Associate Applied AI Engineer (Scale EMEA/German-Speaking) - Orbit Program",
@@ -6780,7 +6608,7 @@
     "posted": "2026-06-24T09:50:34.000Z"
   },
   {
-    "slug": "greenhouse-8025513",
+    "dedupeKey": "greenhouse:8025513",
     "company": "Smartsheet",
     "companyDomain": "smartsheet.com",
     "role": "Senior Machine Learning Operations Engineer",
@@ -6817,7 +6645,7 @@
     "posted": "2026-06-24T05:31:25.000Z"
   },
   {
-    "slug": "ashby-9c5be5ae-2269-4061-82a1-4c9903c25355",
+    "dedupeKey": "ashby:9c5be5ae-2269-4061-82a1-4c9903c25355",
     "company": "Inferact",
     "companyDomain": "inferact.ai",
     "role": "Member of Technical Staff, Kernel Engineering",
@@ -6841,7 +6669,7 @@
     "posted": "2026-06-24T05:29:46.412Z"
   },
   {
-    "slug": "ashby-bc3e42e7-0a71-438a-9815-67a88d5a1efc",
+    "dedupeKey": "ashby:bc3e42e7-0a71-438a-9815-67a88d5a1efc",
     "company": "Inferact",
     "companyDomain": "inferact.ai",
     "role": "Member of Technical Staff, Inference",
@@ -6865,7 +6693,7 @@
     "posted": "2026-06-24T05:27:33.051Z"
   },
   {
-    "slug": "ashby-671f981c-61bf-4c0b-be8f-afbb121b761d",
+    "dedupeKey": "ashby:671f981c-61bf-4c0b-be8f-afbb121b761d",
     "company": "LILT",
     "companyDomain": "lilt.com",
     "role": "AI Researcher / ML Engineer (ASR & Speech Specialist)",
@@ -6897,7 +6725,7 @@
     "posted": "2026-06-24T02:35:45.229Z"
   },
   {
-    "slug": "ashby-7dab49be-3551-45ca-9d43-58b339e04417",
+    "dedupeKey": "ashby:7dab49be-3551-45ca-9d43-58b339e04417",
     "company": "Medal",
     "companyDomain": "medal.tv",
     "role": "Member of Technical Staff",
@@ -6917,7 +6745,7 @@
     "posted": "2026-06-24T00:51:10.687Z"
   },
   {
-    "slug": "greenhouse-7761650003",
+    "dedupeKey": "greenhouse:7761650003",
     "company": "Zipline",
     "companyDomain": "flyzipline.com",
     "role": "Perception Intern (Fall 2026)",
@@ -6940,7 +6768,7 @@
     "posted": "2026-06-24T00:43:10.000Z"
   },
   {
-    "slug": "greenhouse-6687616003",
+    "dedupeKey": "greenhouse:6687616003",
     "company": "Zipline",
     "companyDomain": "flyzipline.com",
     "role": "Senior or Staff MLE - Droid Perception (Offboard)",
@@ -6964,7 +6792,7 @@
     "posted": "2026-06-24T00:43:10.000Z"
   },
   {
-    "slug": "greenhouse-7654662003",
+    "dedupeKey": "greenhouse:7654662003",
     "company": "Zipline",
     "companyDomain": "flyzipline.com",
     "role": "Senior or Staff MLE - Droid Perception (Onboard)",
@@ -6987,7 +6815,7 @@
     "posted": "2026-06-24T00:43:10.000Z"
   },
   {
-    "slug": "greenhouse-7678086003",
+    "dedupeKey": "greenhouse:7678086003",
     "company": "Zipline",
     "companyDomain": "flyzipline.com",
     "role": "3D Perception Engineer - Autonomy (Droid)",
@@ -7010,7 +6838,7 @@
     "posted": "2026-06-24T00:43:10.000Z"
   },
   {
-    "slug": "greenhouse-4359084003",
+    "dedupeKey": "greenhouse:4359084003",
     "company": "Zipline",
     "companyDomain": "flyzipline.com",
     "role": "Autonomy Perception CV/ML SWE",
@@ -7032,7 +6860,7 @@
     "posted": "2026-06-24T00:43:10.000Z"
   },
   {
-    "slug": "greenhouse-7678081003",
+    "dedupeKey": "greenhouse:7678081003",
     "company": "Zipline",
     "companyDomain": "flyzipline.com",
     "role": "Autonomy Perception Engineer - CV / 3D Reconstruction",
@@ -7057,7 +6885,7 @@
     "posted": "2026-06-24T00:43:10.000Z"
   },
   {
-    "slug": "greenhouse-5277868008",
+    "dedupeKey": "greenhouse:5277868008",
     "company": "Verse",
     "companyDomain": "verse.inc",
     "role": "Senior Data Scientist, Infrastructure",
@@ -7077,7 +6905,7 @@
     "posted": "2026-06-24T00:20:32.000Z"
   },
   {
-    "slug": "greenhouse-7249525",
+    "dedupeKey": "greenhouse:7249525",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Machine Learning Engineer, Computer Vision/VLM",
@@ -7108,7 +6936,7 @@
     "posted": "2026-06-24T00:07:59.000Z"
   },
   {
-    "slug": "workday-r169949",
+    "dedupeKey": "workday:R169949",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Senior research Scientist - Machine Learning Systems & Efficiency Engineer",
@@ -7162,7 +6990,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-r169477",
+    "dedupeKey": "workday:R169477",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Creative Technologist-AI Studio",
@@ -7187,7 +7015,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-r65509",
+    "dedupeKey": "workday:R65509",
     "company": "Motorola Solutions",
     "companyDomain": "motorolasolutions.com",
     "role": "Machine Learning Engineer",
@@ -7212,7 +7040,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-26wd96432",
+    "dedupeKey": "workday:26WD96432",
     "company": "Autodesk",
     "companyDomain": "autodesk.co.uk",
     "role": "Senior Machine Learning Engineer, MLOps  West Coast",
@@ -7248,7 +7076,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-26wd97683",
+    "dedupeKey": "workday:26WD97683",
     "company": "Autodesk",
     "companyDomain": "autodesk.co.uk",
     "role": "Senior Principal Engineer, AI/ML Platform",
@@ -7278,7 +7106,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2014632",
+    "dedupeKey": "workday:JR2014632",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior AI Infrastructure Engineer",
@@ -7307,7 +7135,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2020181",
+    "dedupeKey": "workday:JR2020181",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Deep Learning Performance Architect",
@@ -7332,7 +7160,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019975",
+    "dedupeKey": "workday:JR2019975",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior AI Training Performance Engineer",
@@ -7356,7 +7184,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-8025003",
+    "dedupeKey": "greenhouse:8025003",
     "company": "Blue River Technology",
     "companyDomain": "bluerivertechnology.com",
     "role": "CVML Engineer, See and Spray",
@@ -7378,7 +7206,7 @@
     "posted": "2026-06-23T23:37:52.000Z"
   },
   {
-    "slug": "ashby-80be1c3c-9f81-413e-9c80-028c2a7e8969",
+    "dedupeKey": "ashby:80be1c3c-9f81-413e-9c80-028c2a7e8969",
     "company": "Xero",
     "companyDomain": "xero.com",
     "role": "Senior Machine Learning / ML Engineer",
@@ -7403,7 +7231,7 @@
     "posted": "2026-06-23T23:35:59.843Z"
   },
   {
-    "slug": "ashby-bf4d6089-61a0-4e5d-910d-a4f3b96c00e4",
+    "dedupeKey": "ashby:bf4d6089-61a0-4e5d-910d-a4f3b96c00e4",
     "company": "Clutch",
     "companyDomain": "withclutch.com",
     "role": "Senior MLOps Engineer",
@@ -7435,7 +7263,7 @@
     "posted": "2026-06-23T22:54:14.246Z"
   },
   {
-    "slug": "ashby-fb9e43d7-36b8-46c7-93cd-2b7504e30363",
+    "dedupeKey": "ashby:fb9e43d7-36b8-46c7-93cd-2b7504e30363",
     "company": "Pika",
     "companyDomain": "pika.art",
     "role": "Software Engineer, Inference",
@@ -7456,7 +7284,7 @@
     "posted": "2026-06-23T21:47:29.414Z"
   },
   {
-    "slug": "greenhouse-7453448003",
+    "dedupeKey": "greenhouse:7453448003",
     "company": "Klaviyo",
     "companyDomain": "klaviyo.com",
     "role": "Engineering Manager, Customer Agent",
@@ -7475,7 +7303,7 @@
     "posted": "2026-06-23T20:43:49.000Z"
   },
   {
-    "slug": "greenhouse-7727703003",
+    "dedupeKey": "greenhouse:7727703003",
     "company": "Klaviyo",
     "companyDomain": "klaviyo.com",
     "role": "Lead People Systems Engineer",
@@ -7499,7 +7327,7 @@
     "posted": "2026-06-23T20:43:49.000Z"
   },
   {
-    "slug": "greenhouse-7502768003",
+    "dedupeKey": "greenhouse:7502768003",
     "company": "Klaviyo",
     "companyDomain": "klaviyo.com",
     "role": "Senior AI Engineer - Customer Agent",
@@ -7526,7 +7354,7 @@
     "posted": "2026-06-23T20:43:49.000Z"
   },
   {
-    "slug": "greenhouse-7766993003",
+    "dedupeKey": "greenhouse:7766993003",
     "company": "Klaviyo",
     "companyDomain": "klaviyo.com",
     "role": "Senior Lead AI Software Engineer",
@@ -7559,7 +7387,7 @@
     "posted": "2026-06-23T20:43:49.000Z"
   },
   {
-    "slug": "greenhouse-7669343003",
+    "dedupeKey": "greenhouse:7669343003",
     "company": "Klaviyo",
     "companyDomain": "klaviyo.com",
     "role": "Sr. Lead AI Engineer",
@@ -7586,7 +7414,7 @@
     "posted": "2026-06-23T20:43:49.000Z"
   },
   {
-    "slug": "greenhouse-7739622",
+    "dedupeKey": "greenhouse:7739622",
     "company": "Roblox",
     "companyDomain": "roblox.com",
     "role": "Machine Learning Engineering Manager, Critical Harms",
@@ -7609,7 +7437,7 @@
     "posted": "2026-06-23T20:18:40.000Z"
   },
   {
-    "slug": "ashby-8caa3654-aa0e-48f3-a231-5e9dc276253d",
+    "dedupeKey": "ashby:8caa3654-aa0e-48f3-a231-5e9dc276253d",
     "company": "OpenAI",
     "companyDomain": "openai.com",
     "role": "Engineering Manager, MLE",
@@ -7626,5 +7454,163 @@
       "deep learning"
     ],
     "posted": "2026-06-23T19:23:37.921Z"
+  },
+  {
+    "dedupeKey": "ashby:2738b2a4-978a-49cb-bd6f-68098f3794d6",
+    "company": "Parallel Web Systems",
+    "companyDomain": "parallel.ai",
+    "role": "Member of Technical Staff, Model Training",
+    "applyUrl": "https://jobs.ashbyhq.com/parallel/2738b2a4-978a-49cb-bd6f-68098f3794d6/application",
+    "location": "San Francisco or Palo Alto",
+    "remote": "onsite",
+    "level": "staff",
+    "skills": [
+      "python",
+      "machine_learning",
+      "deep_learning",
+      "transformers",
+      "data_curation",
+      "model_evaluation",
+      "ranking",
+      "retrieval"
+    ],
+    "posted": "2026-06-23T16:38:17.965Z"
+  },
+  {
+    "dedupeKey": "ashby:bc715d40-ec81-4d8d-8a5a-92db5227679c",
+    "company": "Parallel Web Systems",
+    "companyDomain": "parallel.ai",
+    "role": "Member of Technical Staff, Search Ranking",
+    "applyUrl": "https://jobs.ashbyhq.com/parallel/bc715d40-ec81-4d8d-8a5a-92db5227679c/application",
+    "location": "San Francisco or Palo Alto",
+    "remote": "onsite",
+    "level": "staff",
+    "skills": [
+      "python",
+      "machine_learning",
+      "ranking",
+      "information_retrieval",
+      "neural_networks",
+      "feature_engineering"
+    ],
+    "posted": "2026-06-23T16:38:15.389Z"
+  },
+  {
+    "dedupeKey": "ashby:4441e32e-3af9-4ff0-9705-86edefb13e64",
+    "company": "Multiverse IO",
+    "companyDomain": "multiverse.io",
+    "role": "AI Build Lead",
+    "applyUrl": "https://jobs.ashbyhq.com/multiverse/4441e32e-3af9-4ff0-9705-86edefb13e64/application",
+    "location": "Edinburgh",
+    "remote": "hybrid",
+    "level": "senior",
+    "skills": [
+      "python",
+      "ai",
+      "machine learning",
+      "product management",
+      "agile"
+    ],
+    "posted": "2026-06-23T16:33:37.733Z"
+  },
+  {
+    "dedupeKey": "greenhouse:7780917003",
+    "company": "Tide",
+    "companyDomain": "tide.co",
+    "role": "Head of Machine Learning, Ongoing Monitoring",
+    "applyUrl": "https://job-boards.greenhouse.io/tide/jobs/7780917003",
+    "location": "India, Hyderabad",
+    "remote": "hybrid",
+    "level": "exec",
+    "skills": [
+      "python",
+      "machine learning",
+      "llm",
+      "aws",
+      "gcp",
+      "fraud detection",
+      "aml",
+      "kyc",
+      "kyb",
+      "deepfakes",
+      "prompt injection",
+      "langgraph",
+      "autogen"
+    ],
+    "posted": "2026-06-23T16:00:40.000Z"
+  },
+  {
+    "dedupeKey": "greenhouse:7778532003",
+    "company": "Affirm",
+    "companyDomain": "affirm.com",
+    "role": "Manager, Machine Learning Engineering (Repayment & Recovery)",
+    "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/7778532003",
+    "location": "Remote UK",
+    "remote": "remote",
+    "level": "senior",
+    "skills": [
+      "python",
+      "machine learning",
+      "deep learning",
+      "transformers",
+      "tree-based models"
+    ],
+    "posted": "2026-06-23T15:47:25.000Z"
+  },
+  {
+    "dedupeKey": "greenhouse:8421650002",
+    "company": "Lyft",
+    "companyDomain": "lyft.com",
+    "role": "Senior ML Software Engineer, Mapping",
+    "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8421650002?gh_jid=8421650002",
+    "location": "San Francisco, CA",
+    "remote": "hybrid",
+    "level": "senior",
+    "skills": [
+      "python",
+      "golang",
+      "machine learning",
+      "deep learning",
+      "computer vision",
+      "geospatial analysis",
+      "data analysis",
+      "model development",
+      "production code",
+      "large scale systems",
+      "supervised learning",
+      "forecasting",
+      "recommendation systems",
+      "reinforcement learning",
+      "multi-armed bandits"
+    ],
+    "posted": "2026-06-23T15:10:52.000Z"
+  },
+  {
+    "dedupeKey": "ashby:07967907-b88f-4a1c-8a7b-adebb0f7d58b",
+    "company": "Faculty",
+    "companyDomain": "faculty.ai",
+    "role": "Senior Machine Learning Engineer ",
+    "applyUrl": "https://jobs.ashbyhq.com/faculty/07967907-b88f-4a1c-8a7b-adebb0f7d58b/application",
+    "location": "UK - London",
+    "remote": "hybrid",
+    "level": "senior",
+    "skills": [
+      "python",
+      "tensorflow",
+      "pytorch",
+      "aws",
+      "azure",
+      "gcp",
+      "docker",
+      "kubernetes",
+      "mlops",
+      "production ml",
+      "scalable infrastructure",
+      "ai safety",
+      "responsible ai",
+      "llm",
+      "agents"
+    ],
+    "posted": "2026-06-23T13:57:16.832Z"
   }
 ]
