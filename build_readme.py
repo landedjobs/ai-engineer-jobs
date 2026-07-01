@@ -17,7 +17,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 
-SITE = "https://landed.b100x.ai"
+SITE = "https://landed.jobs"
 GH_ORG = "https://github.com/landedjobs"
 BRAND = "Landed"
 
