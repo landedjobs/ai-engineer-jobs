@@ -8,7 +8,7 @@
 
 ![Roles](https://img.shields.io/badge/300%20live%20roles-ff5b29) ![Updated](https://img.shields.io/badge/updated-2026.09.28-00A86B) [![Stars](https://img.shields.io/github/stars/landedjobs/ai-engineer-jobs?style=social)](https://github.com/landedjobs/ai-engineer-jobs)
 
-**300 live AI Engineer roles** · 99 remote · 197 new this week · 168 at top-rated companies · updated 2026-09-28, every 2 days
+**300 live AI Engineer roles** · 99 remote · 196 new this week · 167 at top-rated companies · updated 2026-09-28, every 2 days
 
 </div>
 
@@ -164,7 +164,6 @@
 <tr><td align="center"><img src="https://www.google.com/s2/favicons?domain=starburst.io&amp;sz=128" width="36" height="36" alt=""><br>🔥 <b><a href="https://starburst.io">Starburst</a></b><br><sub>TrueUp Open Source 50 · $3.4B valuation</sub></td><td>AI Agent Engineer</td><td>US</td><td align="center"><a href="https://go.landed.jobs/3g8g0r8"><img src="https://static.b100x.ai/github-repos/images/buttons/apply.svg" width="60" alt="Apply"></a></td><td align="center">5d</td></tr>
 <tr><td align="center">↳</td><td>Applied AI Research Engineer</td><td>US</td><td align="center"><a href="https://go.landed.jobs/p79pasl"><img src="https://static.b100x.ai/github-repos/images/buttons/apply.svg" width="60" alt="Apply"></a></td><td align="center">10d</td></tr>
 <tr><td align="center"><img src="https://www.google.com/s2/favicons?domain=qualcomm.com&amp;sz=128" width="36" height="36" alt=""><br>🔥 <b><a href="https://qualcomm.com">Qualcomm</a></b><br><sub>TrueUp Power 50 · $155B valuation</sub></td><td>Machine Learning / Computer Vision Engineer</td><td>San Diego, CA</td><td align="center"><a href="https://go.landed.jobs/r713oak"><img src="https://static.b100x.ai/github-repos/images/buttons/apply.svg" width="60" alt="Apply"></a></td><td align="center">6d</td></tr>
-<tr><td align="center"><img src="https://www.google.com/s2/favicons?domain=proofpoint.com&amp;sz=128" width="36" height="36" alt=""><br>🔥 <b><a href="https://proofpoint.com">Proofpoint</a></b><br><sub>TrueUp Security 50 · $12.3B valuation</sub></td><td>Enterprise AI Engineer</td><td>Sunnyvale, CA</td><td align="center"><a href="https://go.landed.jobs/9kn57xu"><img src="https://static.b100x.ai/github-repos/images/buttons/apply.svg" width="60" alt="Apply"></a></td><td align="center">6d</td></tr>
 <tr><td align="center"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&amp;sz=128" width="36" height="36" alt=""><br>🔥 <b><a href="https://nvidia.com">NVIDIA</a></b><br><sub>TrueUp Power 50 · $4.9T valuation</sub></td><td>Applied Machine Learning Engineer - AI for VLSI Design</td><td>Santa Clara, CA</td><td align="center"><a href="https://go.landed.jobs/6443sfr"><img src="https://static.b100x.ai/github-repos/images/buttons/apply.svg" width="60" alt="Apply"></a></td><td align="center">6d</td></tr>
 <tr><td align="center"><img src="https://www.google.com/s2/favicons?domain=micron.com&amp;sz=128" width="36" height="36" alt=""><br>🔥 <b><a href="https://micron.com">Micron</a></b><br><sub>TrueUp Power 50 · $930B valuation</sub></td><td>AI Reimagination Engineer</td><td>Boise, ID</td><td align="center"><a href="https://go.landed.jobs/6j52fzx"><img src="https://static.b100x.ai/github-repos/images/buttons/apply.svg" width="60" alt="Apply"></a></td><td align="center">6d</td></tr>
 <tr><td align="center">↳</td><td>AI Reimagination Engineer</td><td>Boise, ID</td><td align="center"><a href="https://go.landed.jobs/8e1k48i"><img src="https://static.b100x.ai/github-repos/images/buttons/apply.svg" width="60" alt="Apply"></a></td><td align="center">6d</td></tr>
@@ -208,6 +207,7 @@
 <tr><td align="center"><img src="https://www.google.com/s2/favicons?domain=venavitals.com&amp;sz=128" width="36" height="36" alt=""><br><b><a href="https://venavitals.com">Vena Vitals</a></b> 🟧<br><sub>YC S20 · Seed</sub></td><td>R&amp;D Algorithm Engineer – Health Technologies</td><td>Irvine, CA</td><td align="center"><a href="https://go.landed.jobs/kflvmm4"><img src="https://static.b100x.ai/github-repos/images/buttons/apply.svg" width="60" alt="Apply"></a></td><td align="center">10d</td></tr>
 <tr><td align="center"><img src="https://www.google.com/s2/favicons?domain=poly.app&amp;sz=128" width="36" height="36" alt=""><br><b><a href="https://poly.app">Poly</a></b> 🟧<br><sub>YC S22 · Seed</sub></td><td>AI Research Engineer</td><td>San Francisco, CA</td><td align="center"><a href="https://go.landed.jobs/7w0x1lb"><img src="https://static.b100x.ai/github-repos/images/buttons/apply.svg" width="60" alt="Apply"></a></td><td align="center">10d</td></tr>
 <tr><td align="center"><img src="https://www.google.com/s2/favicons?domain=vooma.ai&amp;sz=128" width="36" height="36" alt=""><br><b><a href="https://vooma.ai">Vooma</a></b> 🟧<br><sub>YC W23 · Seed</sub></td><td>AI Software Engineer</td><td>San Francisco, CA · Palo Alto, CA</td><td align="center"><a href="https://go.landed.jobs/zq7jazy"><img src="https://static.b100x.ai/github-repos/images/buttons/apply.svg" width="60" alt="Apply"></a></td><td align="center">10d</td></tr>
+<tr><td align="center"><img src="https://www.google.com/s2/favicons?domain=silimate.com&amp;sz=128" width="36" height="36" alt=""><br><b><a href="https://silimate.com">Silimate</a></b> 🟧<br><sub>YC S23 · Seed</sub></td><td>Applied AI Engineer</td><td>Mountain View, CA · San Francisco, CA</td><td align="center"><a href="https://go.landed.jobs/mtaiadd"><img src="https://static.b100x.ai/github-repos/images/buttons/apply.svg" width="60" alt="Apply"></a></td><td align="center">10d</td></tr>
 </table>
 
 ### Early career · 30
@@ -408,9 +408,6 @@ Spotted a closed or wrong role? [Open an issue](https://github.com/landedjobs/ai
 <summary><b>Guides and other lists</b></summary>
 
 - 🧭 [awesome-ai-native-jobs](https://github.com/landedjobs/awesome-ai-native-jobs): the map of every landed job list and guide
-- 🔥 [whos-hiring-in-ai](https://github.com/landedjobs/whos-hiring-in-ai): real hiring posts from founders on X
-- 💸 [recently-funded-ai-startups-hiring](https://github.com/landedjobs/recently-funded-ai-startups-hiring): fresh-capital startups staffing up
-- 🎓 [ai-fellowships-and-residencies](https://github.com/landedjobs/ai-fellowships-and-residencies): fellowships, residencies and programs
 - 📘 [ai-interview-guides](https://github.com/landedjobs/ai-interview-guides): company interview guides
 - 🧠 [awesome-ai-engineer-interview](https://github.com/landedjobs/awesome-ai-engineer-interview): AI engineer interview questions and system designs
 - 📦 [ai-engineer-portfolio-projects](https://github.com/landedjobs/ai-engineer-portfolio-projects): buildable portfolio projects

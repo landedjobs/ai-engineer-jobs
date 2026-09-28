@@ -1934,33 +1934,6 @@
     ]
   },
   {
-    "dedupeKey": "job:0ae06f8f-4f75-4676-9b26-c6a986820cb1",
-    "companyId": "company_38a66f9eb8b1b1888b86733e4e4f49f4",
-    "company": "Proofpoint",
-    "companyDomain": "proofpoint.com",
-    "role": "Enterprise AI Engineer",
-    "applyUrl": "https://go.landed.jobs/9kn57xu",
-    "location": "Sunnyvale, CA",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "AI agents",
-      "Observability",
-      "Python"
-    ],
-    "posted": "2026-09-22T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Security 50",
-      "$12.3B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:48419781-d9b2-4834-aa88-089ecc3770e6",
     "companyId": "company_b5b63142bc58c6ae10cf40c55a7d7855",
     "company": "KLA",
@@ -9008,6 +8981,34 @@
     "companyTier": "B",
     "companyBadges": [
       "YC W23",
+      "Seed"
+    ]
+  },
+  {
+    "dedupeKey": "job:0ed5cda5-f0cb-4511-859f-14af304643d6",
+    "companyId": "company_280cb016f7435fa7b2ca91e86025b163",
+    "company": "Silimate",
+    "companyDomain": "silimate.com",
+    "role": "Applied AI Engineer",
+    "applyUrl": "https://go.landed.jobs/mtaiadd",
+    "location": "Mountain View, CA · San Francisco, CA",
+    "locations": [
+      "Mountain View, CA",
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "LLM",
+      "fine-tuning",
+      "AWS"
+    ],
+    "posted": "2026-09-18T06:31:00.213Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC S23",
       "Seed"
     ]
   }
