@@ -1,5 +1,90 @@
 [
   {
+    "dedupeKey": "job:2d198e04-4820-4958-9643-ab98d0ed0133",
+    "companyId": "company_62e8643d84ab56a7ede5a68fb7b6d73f",
+    "company": "Current",
+    "companyDomain": "current.com",
+    "role": "Staff Software Engineer, Machine Learning",
+    "applyUrl": "https://go.landed.jobs/qif23mw",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "staff",
+    "skills": [
+      "Python",
+      "SQL",
+      "Spark",
+      "distributed training"
+    ],
+    "posted": "2026-09-28T13:48:57.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$1.5B valuation",
+      "Series E"
+    ]
+  },
+  {
+    "dedupeKey": "job:4e15e7e1-15ad-412b-8ef7-46e23a74a428",
+    "companyId": "company_00675aa8683ac27daf26c77cccaeddf6",
+    "company": "HubSpot",
+    "companyDomain": "hubspot.com",
+    "role": "Principal Machine Learning Engineer",
+    "applyUrl": "https://go.landed.jobs/zh1v0cq",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Cambridge, MA",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "principal",
+    "skills": [
+      "fine-tuning",
+      "HubSpot",
+      "LLM",
+      "model serving"
+    ],
+    "posted": "2026-09-28T12:39:35.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$12.2B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:ca902a97-ea43-4792-96eb-c25383fa3b21",
+    "companyId": "company_00675aa8683ac27daf26c77cccaeddf6",
+    "company": "HubSpot",
+    "companyDomain": "hubspot.com",
+    "role": "Principal Machine Learning Engineer",
+    "applyUrl": "https://go.landed.jobs/h22lrvs",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "principal",
+    "skills": [
+      "fine-tuning",
+      "HubSpot",
+      "LLM",
+      "model serving"
+    ],
+    "posted": "2026-09-28T12:38:33.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$12.2B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:07714720-d974-4df5-bd68-f9e754416ada",
     "companyId": "company_85223ad3091ff191fc392b96afccd0d7",
     "company": "Hadrian",
@@ -243,7 +328,7 @@
     "companyId": "company_336191b9d5a404c85390e868daec7b8b",
     "company": "Binance",
     "companyDomain": "binance.com",
-    "role": "Could AI Engineer",
+    "role": "Cloud AI Engineer",
     "applyUrl": "https://go.landed.jobs/dtwzy0n",
     "location": "US +3",
     "locations": [
@@ -4839,94 +4924,6 @@
     "companyBadges": [
       "TrueUp HealthTech 50",
       "$7.9B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:d3790079-d716-4029-843e-7af9781708d4",
-    "companyId": "company_04cea180421fb5f77ab26d9a0bf1ee00",
-    "company": "Plaid",
-    "companyDomain": "plaid.com",
-    "role": "Senior Machine Learning Engineer (Research Scientist) - Fraud",
-    "applyUrl": "https://go.landed.jobs/4jxhyio",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "New York City, NY",
-      "Seattle, WA",
-      "San Francisco, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "Python"
-    ],
-    "posted": "2026-09-12T05:51:00.352Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "$8B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:9d38d46e-7749-44a0-bbe9-64724cc9ea7d",
-    "companyId": "company_04cea180421fb5f77ab26d9a0bf1ee00",
-    "company": "Plaid",
-    "companyDomain": "plaid.com",
-    "role": "Senior Machine Learning Engineer - Infra/Ops - Fraud",
-    "applyUrl": "https://go.landed.jobs/k5tqxw5",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "New York City, NY",
-      "Seattle, WA",
-      "San Francisco, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "observability",
-      "Python",
-      "Spark",
-      "Airflow",
-      "PyTorch"
-    ],
-    "posted": "2026-09-12T05:50:09.415Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "$8B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:8914d8ea-6af2-4291-81e8-df525ea70aad",
-    "companyId": "company_04cea180421fb5f77ab26d9a0bf1ee00",
-    "company": "Plaid",
-    "companyDomain": "plaid.com",
-    "role": "Senior Machine Learning Engineer - Fraud",
-    "applyUrl": "https://go.landed.jobs/ihjmq8x",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA",
-      "Seattle, WA",
-      "New York City, NY"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "model deployment",
-      "Python",
-      "SQL",
-      "PyTorch"
-    ],
-    "posted": "2026-09-12T05:49:25.777Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "$8B valuation"
     ]
   },
   {
