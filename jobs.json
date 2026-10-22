@@ -1,5 +1,37 @@
 [
   {
+    "dedupeKey": "job:aab89e24-8933-414e-b1e5-a958732a2c1c",
+    "companyId": "company_b5b63142bc58c6ae10cf40c55a7d7855",
+    "company": "KLA",
+    "companyDomain": "kla.com",
+    "role": "AI Software Engineer - Operations",
+    "applyUrl": "https://go.landed.jobs/q9ffpwd",
+    "location": "Ann Arbor, MI",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "LLMs",
+      "Azure",
+      "prompt engineering",
+      "Python",
+      "JavaScript",
+      "microservices",
+      "React",
+      "Angular"
+    ],
+    "posted": "2026-10-22T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$239B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:2948f4b6-24e6-44af-bd57-172789f07cc0",
     "companyId": "company_9ea79d0d119ecb49ac45fb78f11ecb30",
     "company": "Zscaler",
@@ -87,6 +119,46 @@
     ]
   },
   {
+    "dedupeKey": "job:25cf7c88-61cf-4aca-b98f-6ce33e27dac7",
+    "companyId": "company_6268792d1010ee198befb473acab3907",
+    "company": "Salesforce",
+    "companyDomain": "salesforce.com",
+    "role": "AI Innovation Lead, Life Sciences Acceleration Hub",
+    "applyUrl": "https://go.landed.jobs/s9zsmjz",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "New York, NY",
+      "Washington, VA",
+      "Chicago, IL",
+      "San Francisco, CA",
+      "Georgia"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "director",
+    "skills": [
+      "AI-enabled delivery",
+      "Life Sciences",
+      "Professional Services",
+      "Customer Success",
+      "Product Management",
+      "Engineering",
+      "Global Delivery",
+      "AI innovation",
+      "delivery transformation",
+      "Agentforce",
+      "agentic technologies",
+      "automation platforms"
+    ],
+    "posted": "2026-10-21T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$151B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:2851403e-ce47-450c-b68d-62ee7b83c1cf",
     "companyId": "company_a8ba89e0fdb5a6e1ac1ee6ccce7cb058",
     "company": "CrowdStrike",
@@ -117,6 +189,38 @@
     ]
   },
   {
+    "dedupeKey": "job:5ee911f6-ccaf-40bc-b445-7c32db4a7b8f",
+    "companyId": "company_e96935dc34ea0b379466da7da9a2cbb8",
+    "company": "Equinix",
+    "companyDomain": "equinix.com",
+    "role": "Senior Director AI, Chief Revenue Organization",
+    "applyUrl": "https://go.landed.jobs/kc3cbyf",
+    "location": "Redwood City, CA · Toronto, Canada",
+    "locations": [
+      "Redwood City, CA",
+      "Toronto, Canada"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "director",
+    "skills": [
+      "PyTorch",
+      "TensorFlow",
+      "Hugging Face",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Salesforce"
+    ],
+    "posted": "2026-10-21T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Real Estate Tech 50",
+      "$101B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:6bf1e57c-65cd-4513-ac3d-1c7faf9c6cd5",
     "companyId": "company_f7681a4176c5efc97ba5c6e90eacf91d",
     "company": "Micron",
@@ -141,6 +245,42 @@
     "companyBadges": [
       "TrueUp Power 50",
       "$930B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:70a1e245-5e43-4bed-b928-940f0ecf527f",
+    "companyId": "company_c26456e17d213224adcbf8ab7cf545a7",
+    "company": "ASML",
+    "companyDomain": "asml.com",
+    "role": "Director of Algorithms Engineering - Physics",
+    "applyUrl": "https://go.landed.jobs/iqtfqwj",
+    "location": "San Jose, CA",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "director",
+    "skills": [
+      "Physics-based modeling and simulation",
+      "SEM image formation",
+      "e-beam interactions",
+      "voltage contrast",
+      "Computer vision and image processing",
+      "Machine learning and AI",
+      "High-performance computing",
+      "GPU acceleration",
+      "numerical optimization",
+      "C++",
+      "CUDA",
+      "Python"
+    ],
+    "posted": "2026-10-21T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$632B valuation"
     ]
   },
   {
@@ -201,6 +341,93 @@
     "companyBadges": [
       "TrueUp Power 50",
       "$239B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:9f431d83-5d10-4f06-86fc-8fc82e54d1fd",
+    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
+    "company": "NVIDIA",
+    "companyDomain": "nvidia.com",
+    "role": "Senior Software Engineer, GPU Code Generation for Machine Learning Inference",
+    "applyUrl": "https://go.landed.jobs/mpds4vh",
+    "location": "Santa Clara, CA",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "inference optimization",
+      "PyTorch",
+      "LLM"
+    ],
+    "posted": "2026-10-21T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$4.9T valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:b0dbb67d-e31f-4c9a-85eb-06ba7ef34106",
+    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
+    "company": "NVIDIA",
+    "companyDomain": "nvidia.com",
+    "role": "High-Performance LLM Training Engineer - New College Grad 2027",
+    "applyUrl": "https://go.landed.jobs/bkdtqqm",
+    "location": "Santa Clara, CA",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "PyTorch",
+      "LLM",
+      "Python"
+    ],
+    "posted": "2026-10-21T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$4.9T valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:cc864575-8c21-4fb4-a0c6-b36c086897e1",
+    "companyId": "company_496a9a7de0a1eb537f6db5d919ea81a0",
+    "company": "Intel",
+    "companyDomain": "intel.com",
+    "role": "Senior AI Systems Architect/Researcher",
+    "applyUrl": "https://go.landed.jobs/qajpbwl",
+    "location": "Hillsboro, OR +2",
+    "locations": [
+      "Hillsboro, OR",
+      "Folsom, CA",
+      "Santa Clara, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "computer architecture and system-level design",
+      "networking, interconnect, or memory subsystems",
+      "AI serving and training workloads",
+      "KV-cache transfer",
+      "disaggregated prefill/decode",
+      "model and tensor parallelism",
+      "communication collectives"
+    ],
+    "posted": "2026-10-21T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$455B valuation"
     ]
   },
   {
@@ -794,31 +1021,6 @@
     ]
   },
   {
-    "dedupeKey": "job:a25d78fd-6465-4c10-921b-d71da7f0208f",
-    "companyId": "company_496a9a7de0a1eb537f6db5d919ea81a0",
-    "company": "Intel",
-    "companyDomain": "intel.com",
-    "role": "AI Research Engineer/Scientist",
-    "applyUrl": "https://go.landed.jobs/uq54tie",
-    "location": "Santa Clara, CA",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "python"
-    ],
-    "posted": "2026-10-20T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$455B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:d662a7b8-bf4b-43d1-acb3-ca468ef8d2b7",
     "companyId": "company_f7681a4176c5efc97ba5c6e90eacf91d",
     "company": "Micron",
@@ -1252,29 +1454,6 @@
     "companyBadges": [
       "YC W16",
       "$1.3B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:67335727-8a94-48a8-8935-bc50fd8e2713",
-    "companyId": "company_f7681a4176c5efc97ba5c6e90eacf91d",
-    "company": "Micron",
-    "companyDomain": "micron.com",
-    "role": "Senior AI Automation Data Engineer",
-    "applyUrl": "https://go.landed.jobs/apapaek",
-    "location": "Boise, ID",
-    "locations": [
-      "Boise, ID"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-10-19T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$930B valuation"
     ]
   },
   {
@@ -1745,32 +1924,6 @@
     ]
   },
   {
-    "dedupeKey": "job:ecf82766-bad8-4577-b7f4-b435a7c84ed5",
-    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
-    "company": "NVIDIA",
-    "companyDomain": "nvidia.com",
-    "role": "Machine Learning Engineer, GeForce G-Assist",
-    "applyUrl": "https://go.landed.jobs/3ce7ftp",
-    "location": "Santa Clara, CA",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "go",
-      "Python"
-    ],
-    "posted": "2026-10-16T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$4.9T valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:f33abd84-46c8-4530-a7a1-cfcafcf09927",
     "companyId": "company_6268792d1010ee198befb473acab3907",
     "company": "Salesforce",
@@ -1797,39 +1950,6 @@
     "companyBadges": [
       "TrueUp Power 50",
       "$151B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:49cf8356-f7ed-42b6-8cd4-51d1d9df12aa",
-    "companyId": "company_94331af4b4c9f156400dd00933f4ad34",
-    "company": "CoreWeave",
-    "companyDomain": "coreweave.com",
-    "role": "Senior Software Engineer II, ML Workflows - W&B",
-    "applyUrl": "https://go.landed.jobs/hi1sgsu",
-    "location": "Livingston, NJ +5",
-    "locations": [
-      "Livingston, NJ",
-      "New York City, NY",
-      "Sunnyvale, CA",
-      "Bellevue, WA",
-      "San Francisco, CA",
-      "Manhattan, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "TypeScript",
-      "Go",
-      "GraphQL"
-    ],
-    "posted": "2026-10-15T23:12:48.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$39.2B valuation"
     ]
   },
   {
@@ -2585,31 +2705,6 @@
     ]
   },
   {
-    "dedupeKey": "job:3c573869-f0db-4cf2-98c7-0730118b0283",
-    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
-    "company": "NVIDIA",
-    "companyDomain": "nvidia.com",
-    "role": "Senior AI Application Developer - GPU and SOC Architecture Modeling",
-    "applyUrl": "https://go.landed.jobs/y7pjgpp",
-    "location": "Santa Clara, CA",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "LLMs"
-    ],
-    "posted": "2026-10-15T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$4.9T valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:f8975ba7-4ad3-432c-826d-cba3b82234a3",
     "companyId": "company_e4d49cbc88ca81c2d1cf446d7ac47851",
     "company": "Zyphra",
@@ -2886,6 +2981,40 @@
     "companyBadges": [
       "TrueUp Power 50",
       "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:804d99c5-a04f-4eb1-8806-7015d1291cff",
+    "companyId": "company_f7681a4176c5efc97ba5c6e90eacf91d",
+    "company": "Micron",
+    "companyDomain": "micron.com",
+    "role": "Member of Technical Staff, Agentic AI Architect",
+    "applyUrl": "https://go.landed.jobs/vv7wuib",
+    "location": "Boise, ID",
+    "locations": [
+      "Boise, ID"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "Agentic AI",
+      "CI/CD deployment paths to Kubernetes and containers",
+      "Agent-to-Agent (A2A) protocol",
+      "Model Context Protocol (MCP)",
+      "vLLM",
+      "TensorRT-LLM",
+      "Microsoft Agent Framework",
+      "Google Agent Development Kit",
+      "Retrieval-Augmented Generation (RAG) pipelines",
+      "vector search"
+    ],
+    "posted": "2026-10-14T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$930B valuation"
     ]
   },
   {
@@ -3434,42 +3563,6 @@
     ]
   },
   {
-    "dedupeKey": "job:c3d62df8-664f-489b-8e1d-02a29bf5c032",
-    "companyId": "company_b5b63142bc58c6ae10cf40c55a7d7855",
-    "company": "KLA",
-    "companyDomain": "kla.com",
-    "role": "Software Engineer Intern - AI",
-    "applyUrl": "https://go.landed.jobs/e7kdod2",
-    "location": "Ann Arbor, MI",
-    "locations": [
-      "Ann Arbor, MI"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "intern",
-    "skills": [
-      "machine learning",
-      "generative AI",
-      "large language models",
-      "AI application development",
-      "intelligent assistants",
-      "agentic workflows",
-      "Large Language Models (LLMs)",
-      "multi-agent AI architectures",
-      "machine learning models",
-      "predictive and classification models",
-      "recommendation engines",
-      "APIs and microservices"
-    ],
-    "posted": "2026-10-13T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$239B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:ba9aaa90-6547-42b4-8147-ac9d91ed0c54",
     "companyId": "company_9ea79d0d119ecb49ac45fb78f11ecb30",
     "company": "Zscaler",
@@ -3582,32 +3675,6 @@
     ]
   },
   {
-    "dedupeKey": "job:49e320bd-32eb-4e54-9c89-89e46ae8e385",
-    "companyId": "company_09397c3a608e292e905f4c67c0d4e271",
-    "company": "Jeeves",
-    "companyDomain": "tryjeeves.com",
-    "role": "Senior AI Engineer",
-    "applyUrl": "https://go.landed.jobs/asxjcup",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "LLM",
-      "observability"
-    ],
-    "posted": "2026-10-12T15:29:48.217Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "$2.1B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:b9139b2b-6eef-405c-b217-4107f5b8dd57",
     "companyId": "company_2a8a2947f800aa872b423391bcf6e8ce",
     "company": "Hark",
@@ -3640,6 +3707,31 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$6B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:40e8738c-85c2-440c-a8bf-5b1e75c904f9",
+    "companyId": "company_adf934c7126cde9a756695d296f8bbec",
+    "company": "eBay",
+    "companyDomain": "ebay.com",
+    "role": "AI Native Software Engineer, Risk",
+    "applyUrl": "https://go.landed.jobs/j8uhcd7",
+    "location": "Austin, TX",
+    "locations": [
+      "Austin, TX"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "LLM"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$50.6B valuation",
+      "Public"
     ]
   },
   {
@@ -5265,115 +5357,244 @@
     ]
   },
   {
-    "dedupeKey": "job:c1660e32-be99-4a26-8836-71c0d16a57e7",
-    "companyId": "company_5d65ff5e07d62617fa0362bdddff624b",
-    "company": "Beta Technologies",
-    "companyDomain": "beta.team",
-    "role": "Senior AI Systems Engineer, Advanced Concepts",
-    "applyUrl": "https://go.landed.jobs/ct7ps97",
-    "location": "Plattsburgh, NY +2",
+    "dedupeKey": "job:2c97ebb9-3cf1-4cfa-9f3f-7bd7f1d6366f",
+    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
+    "company": "Cisco",
+    "companyDomain": "cisco.com",
+    "role": "Senior Platform Software Engineer – AI/ML & GPU Infrastructure",
+    "applyUrl": "https://go.landed.jobs/5c34gm1",
+    "location": "San Jose, CA · US",
     "locations": [
-      "Plattsburgh, NY",
-      "Raleigh, NC",
-      "South Burlington, VT"
+      "San Jose, CA",
+      "US"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "Kubernetes",
+      "API design",
+      "distributed systems",
+      "node",
+      "model serving",
+      "distributed training"
+    ],
+    "posted": "2026-10-22T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:36cf3944-0ce0-4577-9c53-240a12dc2de6",
+    "companyId": "company_d91d895a1410bab62944c6f4336ac218",
+    "company": "Snap",
+    "companyDomain": "snap.com",
+    "role": "Director, Machine Learning Engineer, Content",
+    "applyUrl": "https://go.landed.jobs/kwnbb88",
+    "location": "Palo Alto, CA +3",
+    "locations": [
+      "Palo Alto, CA",
+      "San Francisco, CA",
+      "Los Angeles, CA",
+      "Bellevue, WA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "director",
+    "skills": [
+      "recommendation systems"
+    ],
+    "posted": "2026-10-22T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$7.9B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:519a3fd7-03a0-4e56-97a0-9b1bdb9f3061",
+    "companyId": "company_24c2b9e4b9000c3604d698b0098fe283",
+    "company": "Unity Technologies",
+    "companyDomain": "unity.com",
+    "role": "Senior Machine Learning Engineer, Advertiser Growth",
+    "applyUrl": "https://go.landed.jobs/zdii7sm",
+    "location": "Mountain View, CA",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "LLM",
+      "agentic systems",
+      "Python",
+      "Scala",
+      "Spark",
+      "Snowflake",
+      "BigQuery",
+      "fine-tuning"
+    ],
+    "posted": "2026-10-22T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$13.8B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:59cef4c7-a850-493b-b113-2cabd8a315c7",
+    "companyId": "company_f7c7888938d9e6732218edf477b3cfe5",
+    "company": "Entegris",
+    "companyDomain": "entegris.com",
+    "role": "Director, AI and Digital Enablement",
+    "applyUrl": "https://go.landed.jobs/64im0in",
+    "location": "Aurora, IL",
+    "locations": [
+      "Aurora, IL"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "director",
+    "skills": [
+      "AI/ML solutions",
+      "predictive models",
+      "automation",
+      "agents",
+      "copilots",
+      "generative AI",
+      "intelligent automation",
+      "modern AI tooling and platforms"
+    ],
+    "posted": "2026-10-22T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$18.2B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:8f6b3307-53b3-4fe9-96d2-1b052fc7d784",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Wireless and Edge AI/ML Engineer",
+    "applyUrl": "https://go.landed.jobs/06h2q2a",
+    "location": "US",
+    "locations": [
+      "US"
     ],
     "remote": "hybrid",
     "region": "us",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "Kubernetes",
+      "PyTorch",
+      "TensorFlow",
+      "Python",
+      "Docker",
+      "Terraform"
+    ],
+    "posted": "2026-10-22T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:b8c68e7b-88d7-41f8-91df-643b7d357eec",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "AI Software Engineer",
+    "applyUrl": "https://go.landed.jobs/kriqcz6",
+    "location": "Arlington, VA",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "Python",
+      "Javascript",
+      "Go",
+      "Rust",
+      "React",
+      "Angular",
+      "RESTful APIs",
+      "CI/CD",
+      "Docker",
+      "AWS"
+    ],
+    "posted": "2026-10-22T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:deed852a-0288-4eb5-ae0b-cf8b8b192d8a",
+    "companyId": "company_20751c6afb30b56e8243e199076331ba",
+    "company": "CDW",
+    "companyDomain": "cdw.com",
+    "role": "AI Infrastructure Consulting Engineer – Converged Compute & Storage",
+    "applyUrl": "https://go.landed.jobs/vh3y7hn",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "mid",
+    "skills": [],
+    "posted": "2026-10-22T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$18.9B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:eb2ef631-0723-4ac2-923a-ee8a0879b4bf",
+    "companyId": "company_20751c6afb30b56e8243e199076331ba",
+    "company": "CDW",
+    "companyDomain": "cdw.com",
+    "role": "Senior AI Software Consulting Engineer",
+    "applyUrl": "https://go.landed.jobs/1n8cmix",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
     "family": "ai_machine_learning",
     "level": "senior",
     "skills": [
       "observability",
       "Python",
+      "Kubernetes",
       "containers",
-      "model evaluation",
-      "retrieval-augmented generation"
+      "CI/CD",
+      "PyTorch",
+      "retrieval-augmented generation",
+      "agentic workflows",
+      "vector search",
+      "fine-tuning"
     ],
-    "posted": "2026-10-02T17:11:50.000Z",
-    "companyTier": "A",
+    "posted": "2026-10-22T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp ClimateTech 50",
-      "$4.4B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:f4c6ad45-0eca-437e-8ddf-9520517c6eee",
-    "companyId": "company_0e68a172fd3d0a465cec18b3eadccea8",
-    "company": "Suno",
-    "companyDomain": "suno.com",
-    "role": "Senior/Staff Machine Learning Engineer - Content Discovery",
-    "applyUrl": "https://go.landed.jobs/46556d3",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "ranking models",
-      "Python",
-      "PyTorch"
-    ],
-    "posted": "2026-10-02T16:43:52.100Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$5.4B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:001b24bf-6369-494e-a3f2-b1a345784ccd",
-    "companyId": "company_0d56b1ced52ad936ad51d238600a0670",
-    "company": "Bedrock Robotics",
-    "companyDomain": "bedrockrobotics.com",
-    "role": "2027 Internship Behavior ML Engineer, Learned Manipulation Policies",
-    "applyUrl": "https://go.landed.jobs/53rrkpo",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "intern",
-    "skills": [
-      "Python",
-      "PyTorch"
-    ],
-    "posted": "2026-10-02T16:34:38.747Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$1.8B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:001a9882-bd1e-49be-bcd1-7922c9afb42e",
-    "companyId": "company_5d65ff5e07d62617fa0362bdddff624b",
-    "company": "Beta Technologies",
-    "companyDomain": "beta.team",
-    "role": "AI / ML Engineer, Advanced Concepts",
-    "applyUrl": "https://go.landed.jobs/11kqjzc",
-    "location": "Plattsburgh, NY +2",
-    "locations": [
-      "Plattsburgh, NY",
-      "Raleigh, NC",
-      "South Burlington, VT"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "observability",
-      "model evaluation"
-    ],
-    "posted": "2026-10-02T14:42:33.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp ClimateTech 50",
-      "$4.4B valuation"
+      "$18.9B valuation",
+      "Public"
     ]
   },
   {
@@ -5433,6 +5654,127 @@
     ]
   },
   {
+    "dedupeKey": "job:7119c144-de58-4469-b097-5d71b34e5232",
+    "companyId": "company_f26a572bd4e5c98559b171917cacaa72",
+    "company": "Lightfield",
+    "companyDomain": "lightfield.app",
+    "role": "Staff Applied Researcher",
+    "applyUrl": "https://go.landed.jobs/ysg79yl",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "staff",
+    "skills": [
+      "LLMs",
+      "evaluation",
+      "agent design",
+      "retrieval",
+      "Python",
+      "TypeScript",
+      "Node.js",
+      "PostgreSQL",
+      "LLM-as-judge",
+      "rubric-based grading",
+      "offline replay",
+      "A/B tests"
+    ],
+    "posted": "2026-10-21T22:01:21.231Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$300M valuation",
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:668ea3e2-5e33-4aba-b373-ba5f9a0f361a",
+    "companyId": "company_2f6bb7ff55aadcc922770f0bdbe255bd",
+    "company": "SandboxAQ",
+    "companyDomain": "sandboxaq.com",
+    "role": "Manager, AI Engineering",
+    "applyUrl": "https://go.landed.jobs/5zlodcp",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "AI and software engineering",
+      "models and agents",
+      "agents in production",
+      "Python",
+      "ML and/or agentic frameworks",
+      "open source projects",
+      "cybersecurity"
+    ],
+    "posted": "2026-10-21T21:18:52.393Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$5.6B valuation",
+      "Series E"
+    ]
+  },
+  {
+    "dedupeKey": "job:00ae8e87-1e92-40d5-bf6e-c466f4271e3f",
+    "companyId": "company_23034e44fe890ce6816185a58ba8b31b",
+    "company": "Cerebras Systems",
+    "companyDomain": "cerebras.net",
+    "role": "AI Engineer, Developer Relations",
+    "applyUrl": "https://go.landed.jobs/lhmsu6b",
+    "location": "Sunnyvale, CA",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "prompting"
+    ],
+    "posted": "2026-10-21T20:18:48.281Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Series G"
+    ]
+  },
+  {
+    "dedupeKey": "job:0b824e7e-9747-4d01-99a8-95b49c936a66",
+    "companyId": "company_da9b1fd3b0d9e3b76a083a537958ef51",
+    "company": "Epic Games",
+    "companyDomain": "epicgames.com",
+    "role": "Senior Machine Learning Engineer, Discovery Recommendations",
+    "applyUrl": "https://go.landed.jobs/16vwuwm",
+    "location": "Cary, NC",
+    "locations": [
+      "Cary, NC"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "recommendation systems",
+      "Python",
+      "Spark",
+      "PyTorch",
+      "NLP",
+      "Databricks",
+      "AWS"
+    ],
+    "posted": "2026-10-21T19:08:12.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$22.5B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:2314849a-eec2-4743-9ea6-464eab73da7b",
     "companyId": "company_da9b1fd3b0d9e3b76a083a537958ef51",
     "company": "Epic Games",
@@ -5487,6 +5829,33 @@
     "companyBadges": [
       "$4.5B valuation",
       "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:b15ef1a4-2f07-47b2-9a67-2ab15cbb8467",
+    "companyId": "company_2f6bb7ff55aadcc922770f0bdbe255bd",
+    "company": "SandboxAQ",
+    "companyDomain": "sandboxaq.com",
+    "role": "AI Engineer",
+    "applyUrl": "https://go.landed.jobs/ov8yc6j",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "Python",
+      "agent orchestration",
+      "model deployment"
+    ],
+    "posted": "2026-10-21T18:15:33.778Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$5.6B valuation",
+      "Series E"
     ]
   },
   {
@@ -5678,6 +6047,161 @@
     ]
   },
   {
+    "dedupeKey": "job:4224b57b-ec16-42ad-a21c-f09977c0fd77",
+    "companyId": "company_0b0a2e208e003d9ffe3c5fae5c685c0c",
+    "company": "Medtronic",
+    "companyDomain": "medtronic.com",
+    "role": "Sr AI Solution Engineer - Onsite, Minneapolis, MN",
+    "applyUrl": "https://go.landed.jobs/b5zrn3f",
+    "location": "Minneapolis, MN",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "Snowflake",
+      "Databricks",
+      "LLMs",
+      "RAG",
+      "prompt engineering",
+      "vector databases",
+      "Python",
+      "JavaScript",
+      "REST APIs",
+      "SQL"
+    ],
+    "posted": "2026-10-21T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:46dbb20d-b67a-4c58-a4a9-a56ea38422fc",
+    "companyId": "company_84c33598585ab300e104a6fe98165004",
+    "company": "GlobalFoundries",
+    "companyDomain": "gf.com",
+    "role": "AI Software Engineer (2027 New College Graduate)",
+    "applyUrl": "https://go.landed.jobs/m0i981k",
+    "location": "Santa Clara, CA · Richardson, TX",
+    "locations": [
+      "Santa Clara, CA",
+      "Richardson, TX"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "entry",
+    "skills": [
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "posted": "2026-10-21T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$27.4B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:4a549528-2188-4ddf-846f-f23eebf217cf",
+    "companyId": "company_da51505795a3f650af3f7423264a3526",
+    "company": "Motorola Solutions",
+    "companyDomain": "motorolasolutions.com",
+    "role": "Director of Computer Vision",
+    "applyUrl": "https://go.landed.jobs/lxwzx3o",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Waltham, MA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "director",
+    "skills": [
+      "computer vision",
+      "machine learning algorithms",
+      "MLOps lifecycle",
+      "real-time video processing",
+      "inference optimization"
+    ],
+    "posted": "2026-10-21T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:74b88802-3525-4bfa-83e9-4f0a5b39bde3",
+    "companyId": "company_d0f12616c140b9ab5b1f640d7ad48d2c",
+    "company": "Capital One",
+    "companyDomain": "capitalone.com",
+    "role": "AI Engineer 4 (AI Foundations, VLM Customization)",
+    "applyUrl": "https://go.landed.jobs/qwbhldo",
+    "location": "San Jose, CA +3",
+    "locations": [
+      "San Jose, CA",
+      "McLean, VA",
+      "Cambridge, MA",
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "Go",
+      "Scala",
+      "AWS",
+      "Google Cloud",
+      "Azure",
+      "agentic workflows"
+    ],
+    "posted": "2026-10-21T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:81e1b540-5dc3-4b23-bc3a-9ab080ad70c4",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Vectra AI Cloud-Native Engineer",
+    "applyUrl": "https://go.landed.jobs/hmrh9o2",
+    "location": "Reston, VA +2",
+    "locations": [
+      "Reston, VA",
+      "Washington, D.C., DC",
+      "Norfolk, VA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "AWS",
+      "Azure",
+      "distributed systems",
+      "microservices",
+      "Terraform",
+      "Kubernetes",
+      "CI/CD",
+      "TS"
+    ],
+    "posted": "2026-10-21T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:a4a24291-6061-4def-a4c2-afb9544f2c18",
     "companyId": "company_5ab4686cb44bbd5a0d76c5536061a8c2",
     "company": "Red Hat",
@@ -5800,6 +6324,143 @@
     "companyTier": "B",
     "companyBadges": [
       "$28.8B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:bd611b6b-0539-48dd-850b-d126c1644503",
+    "companyId": "company_20751c6afb30b56e8243e199076331ba",
+    "company": "CDW",
+    "companyDomain": "cdw.com",
+    "role": "Principal Consulting Engineer - HI",
+    "applyUrl": "https://go.landed.jobs/jilpsqp",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "principal",
+    "skills": [
+      "enterprise AI architecture",
+      "generative AI",
+      "agentic systems",
+      "MLOps",
+      "model serving",
+      "integration",
+      "governance",
+      "accelerated infrastructure",
+      "RAG",
+      "fine-tuning",
+      "distributed inference",
+      "NVIDIA"
+    ],
+    "posted": "2026-10-21T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$18.9B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:d882aaaf-baa1-40ee-9b42-703a2d4da477",
+    "companyId": "company_0b0a2e208e003d9ffe3c5fae5c685c0c",
+    "company": "Medtronic",
+    "companyDomain": "medtronic.com",
+    "role": "Sr HR AI Specialist - On-Site, Minneapolis, MN",
+    "applyUrl": "https://go.landed.jobs/luf0cka",
+    "location": "Minneapolis, MN",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "prompt engineering",
+      "large language model (LLM) tools",
+      "robotic process automation (RPA)",
+      "UiPath",
+      "Moveworks",
+      "Automation Anywhere"
+    ],
+    "posted": "2026-10-21T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:dde56106-4a53-4f17-80c6-5f9aa1ceea81",
+    "companyId": "company_9a07434be71a9928b313a764639073c9",
+    "company": "Hewlett Packard Enterprise",
+    "companyDomain": "hpe.com",
+    "role": "AI and ML Solution Architect",
+    "applyUrl": "https://go.landed.jobs/drjl7cu",
+    "location": "Spring, TX",
+    "locations": [
+      "Spring, TX"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "staff",
+    "skills": [
+      "Python",
+      "R",
+      "Java",
+      "Git",
+      "TensorFlow",
+      "PyTorch",
+      "sci-kit",
+      "Keras",
+      "deep learning",
+      "convolutional neural networks",
+      "recurrent neural networks",
+      "transformers"
+    ],
+    "posted": "2026-10-21T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$74.2B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:e94eefc3-e2f7-44f5-bbd6-626ea15a05ba",
+    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
+    "company": "Cisco",
+    "companyDomain": "cisco.com",
+    "role": "Technical Leader, Software Engineering – Agentic AI Platform (Identity & Security)",
+    "applyUrl": "https://go.landed.jobs/tvqqjwj",
+    "location": "San Jose, CA · San Francisco, CA",
+    "locations": [
+      "San Jose, CA",
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "staff",
+    "skills": [
+      "LLM orchestration frameworks",
+      "agentic runtimes (e.g., ReAct)",
+      "Model Context Protocol (MCP) servers",
+      "Kubernetes",
+      "OpenTelemetry/APM",
+      "API gateways",
+      "gRPC/protobuf",
+      "Temporal",
+      "Kafka",
+      "LaunchDarkly",
+      "Weaviate",
+      "PostgreSQL/pgx"
+    ],
+    "posted": "2026-10-21T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
       "Public"
     ]
   },
@@ -6311,41 +6972,6 @@
     ]
   },
   {
-    "dedupeKey": "job:530a1544-02f0-4d14-8bba-d4f0bafbd2a6",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "Agentic AI Engineer",
-    "applyUrl": "https://go.landed.jobs/kv6dooj",
-    "location": "Alexandria, VA",
-    "locations": [
-      "Alexandria, VA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "LLM",
-      "RAG",
-      "fine-tuning",
-      "agent orchestration",
-      "Kubernetes",
-      "Docker",
-      "AWS",
-      "Azure",
-      "Grafana",
-      "PyTorch",
-      "TensorFlow",
-      "vLLM"
-    ],
-    "posted": "2026-10-20T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:60fc236d-8a9a-4ef3-8277-f5db0efae49b",
     "companyId": "company_1fb60306dfee429de8a4090c4d118342",
     "company": "Expedia",
@@ -6413,36 +7039,6 @@
     ]
   },
   {
-    "dedupeKey": "job:9ea0cafe-a0e3-4f22-8abc-79ac0d47c3d0",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "Agentic AI Security Engineer, Lead",
-    "applyUrl": "https://go.landed.jobs/r17kyxi",
-    "location": "McLean, VA",
-    "locations": [
-      "McLean, VA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "agent orchestration",
-      "Python",
-      "large language models",
-      "retrieval augmented generation",
-      "threat modeling",
-      "observability",
-      "containers"
-    ],
-    "posted": "2026-10-20T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:b05aaba7-8f95-4d91-b7df-06dba06e9584",
     "companyId": "company_d0f12616c140b9ab5b1f640d7ad48d2c",
     "company": "Capital One",
@@ -6469,38 +7065,6 @@
       "Azure",
       "Kubernetes",
       "CI/CD"
-    ],
-    "posted": "2026-10-20T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:b0dd0878-c46a-4faa-aa48-2a8805331338",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "Operational Technology AI Engineer",
-    "applyUrl": "https://go.landed.jobs/1cmignp",
-    "location": "Chantilly, VA",
-    "locations": [
-      "Chantilly, VA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "RAG",
-      "AI agents",
-      "Python",
-      "Typescript",
-      "React",
-      "Large Language Models",
-      "vector databases",
-      "Kubernetes",
-      "Docker"
     ],
     "posted": "2026-10-20T00:00:00.000Z",
     "companyTier": "B",
@@ -6628,42 +7192,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$20.4B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:e94eefc3-e2f7-44f5-bbd6-626ea15a05ba",
-    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
-    "company": "Cisco",
-    "companyDomain": "cisco.com",
-    "role": "Technical Leader, Software Engineering – Agentic AI Platform (Identity & Security)",
-    "applyUrl": "https://go.landed.jobs/tvqqjwj",
-    "location": "San Jose, CA · San Francisco, CA",
-    "locations": [
-      "San Jose, CA",
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "staff",
-    "skills": [
-      "LLM orchestration frameworks",
-      "agentic runtimes (e.g., ReAct)",
-      "Model Context Protocol (MCP) servers",
-      "Kubernetes",
-      "OpenTelemetry/APM",
-      "API gateways",
-      "gRPC/protobuf",
-      "Temporal",
-      "Kafka",
-      "LaunchDarkly",
-      "Weaviate",
-      "PostgreSQL/pgx"
-    ],
-    "posted": "2026-10-20T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
       "Public"
     ]
   },
@@ -7277,41 +7805,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$74.2B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:6a4b848d-caa3-4202-a6cb-681d621b9d47",
-    "companyId": "company_d0f12616c140b9ab5b1f640d7ad48d2c",
-    "company": "Capital One",
-    "companyDomain": "capitalone.com",
-    "role": "AI Engineer 4",
-    "applyUrl": "https://go.landed.jobs/trs6h01",
-    "location": "San Francisco, CA +4",
-    "locations": [
-      "San Francisco, CA",
-      "McLean, VA",
-      "Cambridge, MA",
-      "San Jose, CA",
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "mid",
-    "skills": [
-      "Python",
-      "Java",
-      "Go",
-      "Scala",
-      "AWS",
-      "Google Cloud",
-      "Azure",
-      "agentic workflows"
-    ],
-    "posted": "2026-10-19T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
       "Public"
     ]
   },
@@ -8653,467 +9146,6 @@
     "companyBadges": [
       "$2.1B valuation",
       "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:1bc3f7dc-7a36-47dd-bb74-e468ffc1ad6a",
-    "companyId": "company_5517f3bf90ed59056cf38b784e6152d9",
-    "company": "Cohere",
-    "companyDomain": "cohere.com",
-    "role": "Member of Technical Staff - Post-training (Data Infrastructure)",
-    "applyUrl": "https://go.landed.jobs/qbxa855",
-    "location": "US · Canada",
-    "locations": [
-      "US",
-      "Canada"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "designing and building large-scale data pipelines for machine learning",
-      "running distributed data processing and model inference at scale",
-      "post-training methods (e.g., SFT, RLHF, DPO)"
-    ],
-    "posted": "2026-10-14T10:17:51.603Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$6.8B valuation",
-      "Late stage"
-    ]
-  },
-  {
-    "dedupeKey": "job:56e2e8f6-5a5e-4a5d-86ff-9613a85de62e",
-    "companyId": "company_5517f3bf90ed59056cf38b784e6152d9",
-    "company": "Cohere",
-    "companyDomain": "cohere.com",
-    "role": "Member of Technical Staff - Post-Training (Reinforcement Learning & Generalization)",
-    "applyUrl": "https://go.landed.jobs/bguc3yl",
-    "location": "🌐 Remote (US, Canada)",
-    "locations": [
-      "New York City, NY",
-      "Toronto, Canada"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "training LLMs",
-      "applying reinforcement learning to LLMs (e.g., PPO, GRPO, RLHF, RLVR)",
-      "distributed training (e.g., JAX, PyTorch, FSDP, Megatron)"
-    ],
-    "posted": "2026-10-14T10:10:53.170Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$6.8B valuation",
-      "Late stage"
-    ]
-  },
-  {
-    "dedupeKey": "job:5ec042b2-3f79-40d4-a3c5-fa315cf83990",
-    "companyId": "company_e96861c5e5152ede64618a0e277d9c81",
-    "company": "Charles Schwab",
-    "companyDomain": "schwab.com",
-    "role": "Application Security Engineer - AI Engineer",
-    "applyUrl": "https://go.landed.jobs/aw59147",
-    "location": "Southlake, TX +3",
-    "locations": [
-      "Southlake, TX",
-      "Austin, TX",
-      "Omaha, NE",
-      "Orlando, FL"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "threat modeling",
-      "continuous integration",
-      "Large Language Models",
-      "penetration testing",
-      "observability"
-    ],
-    "posted": "2026-10-14T04:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:140dcb79-ff47-4399-9af5-77d4ad8bd491",
-    "companyId": "company_67037bf0aa492bd826e82f670f46e6ba",
-    "company": "Nike",
-    "companyDomain": "nike.com",
-    "role": "Machine Learning Engineer I",
-    "applyUrl": "https://go.landed.jobs/v4oqdyd",
-    "location": "Beaverton, OR",
-    "locations": [
-      "Beaverton, OR"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "Python",
-      "PyTorch",
-      "TensorFlow",
-      "Spark",
-      "Airflow",
-      "distributed systems",
-      "LLM",
-      "RAG",
-      "CI/CD",
-      "AWS",
-      "Docker",
-      "inference optimization"
-    ],
-    "posted": "2026-10-14T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:3f012038-097b-4874-8065-c6751592f6e4",
-    "companyId": "company_c16fac952b7d6b36fbb53d5f5e61abf3",
-    "company": "Cohesity",
-    "companyDomain": "cohesity.com",
-    "role": "Sr. AI Solution Architect",
-    "applyUrl": "https://go.landed.jobs/n9ppoy0",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Georgia, GA",
-      "US",
-      "New York City, NY"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "generative AI systems",
-      "LLMs",
-      "embeddings",
-      "RAG",
-      "vector stores",
-      "LangChain / LlamaIndex",
-      "enterprise storage (NAS/SAN/Object)",
-      "backup/recovery platforms",
-      "hybrid-cloud architectures"
-    ],
-    "posted": "2026-10-14T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$3.7B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:7270235f-178b-41aa-980e-5172ca3421b5",
-    "companyId": "company_d7b824f4372bb3451701af40e8055d08",
-    "company": "Thomson Reuters",
-    "companyDomain": "thomsonreuters.com",
-    "role": "Legal AI Engineer",
-    "applyUrl": "https://go.landed.jobs/7nn6e1r",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Eagan, MN",
-      "New York City, NY"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "Python"
-    ],
-    "posted": "2026-10-14T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:a6217258-8dbc-4c8a-bedb-78ff443e8252",
-    "companyId": "company_1d67bbc9737b3cd194e4b9fa31509887",
-    "company": "Workday",
-    "companyDomain": "workday.com",
-    "role": "AI Engineer",
-    "applyUrl": "https://go.landed.jobs/jfa46mf",
-    "location": "Pleasanton, CA",
-    "locations": [
-      "Pleasanton, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "AI agents",
-      "LLMs",
-      "RAG",
-      "prompt engineering",
-      "Python",
-      "CI/CD",
-      "vector databases"
-    ],
-    "posted": "2026-10-14T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$39.6B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:f3ee3c77-9598-4ebf-abbc-309dd80803ea",
-    "companyId": "company_c0df3da73ab6a4f316b6352d5ded4778",
-    "company": "HP",
-    "companyDomain": "hp.com",
-    "role": "Senior Director - Agentic AI Development",
-    "applyUrl": "https://go.landed.jobs/7d5le88",
-    "location": "Spring, TX · Austin, TX",
-    "locations": [
-      "Spring, TX",
-      "Austin, TX"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "director",
-    "skills": [
-      "agentic or generative AI applications",
-      "tool calling",
-      "context handling",
-      "local or hybrid inference",
-      "automated integration",
-      "hardware-based validation",
-      "staged releases",
-      "rollback",
-      "field telemetry"
-    ],
-    "posted": "2026-10-14T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$24.9B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:a16aae43-5dd5-49f2-ae59-cbd80a65ffbd",
-    "companyId": "company_273e97e487c708191b908cb653d9ca7c",
-    "company": "Honeycomb",
-    "companyDomain": "honeycomb.io",
-    "role": "Staff AI Operations Lead",
-    "applyUrl": "https://go.landed.jobs/3e55b7w",
-    "location": "🌐 Remote (Canada, US)",
-    "locations": [
-      "Canada",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "staff",
-    "skills": [
-      "workflow automation",
-      "enterprise systems",
-      "case management",
-      "ticketing",
-      "CRM",
-      "knowledge bases"
-    ],
-    "posted": "2026-10-13T22:49:28.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Series D"
-    ]
-  },
-  {
-    "dedupeKey": "job:b7f38bfb-cf86-485a-a277-d4e29597e44a",
-    "companyId": "company_273e97e487c708191b908cb653d9ca7c",
-    "company": "Honeycomb",
-    "companyDomain": "honeycomb.io",
-    "role": "Staff AI Operations Lead",
-    "applyUrl": "https://go.landed.jobs/p3lubbx",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "staff",
-    "skills": [
-      "workflow automation",
-      "model access",
-      "orchestration and agents",
-      "prompt and tool management",
-      "evaluation",
-      "logging",
-      "cost control",
-      "CRM",
-      "knowledge bases",
-      "case management",
-      "ticketing"
-    ],
-    "posted": "2026-10-13T22:47:59.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Series D"
-    ]
-  },
-  {
-    "dedupeKey": "job:2e87f6a3-466a-405b-891b-7a5f39febdfe",
-    "companyId": "company_f26a572bd4e5c98559b171917cacaa72",
-    "company": "Lightfield",
-    "companyDomain": "lightfield.app",
-    "role": "Staff Machine Learning Engineer",
-    "applyUrl": "https://go.landed.jobs/1nk7un8",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "staff",
-    "skills": [
-      "Salesforce",
-      "LLMs",
-      "NLP",
-      "Pinecone"
-    ],
-    "posted": "2026-10-13T19:15:24.461Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$300M valuation",
-      "Series B"
-    ]
-  },
-  {
-    "dedupeKey": "job:9a21be0f-9ebe-4cb5-aa5f-b9cdcb0f30ee",
-    "companyId": "company_1adee9941741a122470b70b187763b8c",
-    "company": "Via",
-    "companyDomain": "ridewithvia.com",
-    "role": "Head of AI Research Product",
-    "applyUrl": "https://go.landed.jobs/2hl39jc",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "director",
-    "skills": [
-      "reinforcement learning",
-      "deep reinforcement learning",
-      "tree search",
-      "weighted ensemble models",
-      "multi-objective optimization",
-      "personalization systems",
-      "behavioral incentive models",
-      "causal inference",
-      "supervised and unsupervised methods",
-      "probabilistic modeling",
-      "optimization",
-      "Monte Carlo tree search"
-    ],
-    "posted": "2026-10-13T15:17:49.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.6B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:e361f8f1-c6e1-4592-a51b-6d3a0b5423d7",
-    "companyId": "company_860d14b55a7d54ba235f84fd69fff124",
-    "company": "Veeam Software",
-    "companyDomain": "veeam.com",
-    "role": "AI Solution Architect",
-    "applyUrl": "https://go.landed.jobs/sltud4p",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "mid",
-    "skills": [
-      "AWS",
-      "Python",
-      "Go",
-      "TypeScript",
-      "UML"
-    ],
-    "posted": "2026-10-13T14:05:10.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$15B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:4ae0acd9-4214-468b-8d8a-b73ae76931b4",
-    "companyId": "company_62ed5bd842a0f81f072e2ac59af73266",
-    "company": "Trump Media & Technology Group",
-    "companyDomain": "tmtgcorp.com",
-    "role": "Senior Backend Engineer, AI Platform",
-    "applyUrl": "https://go.landed.jobs/2u699a4",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Sarasota, FL"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "LLM",
-      "Java",
-      "Kotlin",
-      "Go",
-      "C#",
-      "retrieval-augmented generation",
-      "vector search",
-      "API design",
-      "Python",
-      "vLLM",
-      "TypeScript",
-      "Ruby"
-    ],
-    "posted": "2026-10-13T12:21:57.359Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2.7B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:1410a62c-c1d2-4a0c-988c-fa39a4128d8b",
-    "companyId": "company_676f9ec063277547f7ea3f9ce1ce5a51",
-    "company": "Flutter Entertainment",
-    "companyDomain": "flutter.com",
-    "role": "AI Coach",
-    "applyUrl": "https://go.landed.jobs/oikc8ix",
-    "location": "Tbilisi, Georgia",
-    "locations": [
-      "Tbilisi, Georgia"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-10-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$18.1B valuation",
-      "Public"
     ]
   }
 ]
