@@ -5715,36 +5715,6 @@
     ]
   },
   {
-    "dedupeKey": "job:5dc74518-bc58-4f41-850c-0dd19ff323bd",
-    "companyId": "company_ff5ae2fb4ebddbaa9587bde5ffe3c443",
-    "company": "Coinbase",
-    "companyDomain": "coinbase.com",
-    "role": "Staff Machine Learning Engineer, Compliance Automation (Platform)",
-    "applyUrl": "https://go.landed.jobs/abbehi9",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "staff",
-    "skills": [
-      "LLM",
-      "prompt engineering",
-      "Python",
-      "Spark",
-      "Airflow",
-      "vector databases"
-    ],
-    "posted": "2026-10-29T06:02:17.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Crypto 50",
-      "$38.5B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:41425e4a-6c2f-47be-b1c9-bb9f2e6fb6ed",
     "companyId": "company_4f814c75bf30a0cc63f884411481449c",
     "company": "Notion",
@@ -8601,6 +8571,35 @@
     "companyTier": "B",
     "companyBadges": [
       "$3.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:a28544f6-eb32-4390-a513-496beb9871a1",
+    "companyId": "company_20751c6afb30b56e8243e199076331ba",
+    "company": "CDW",
+    "companyDomain": "cdw.com",
+    "role": "AI Software Consulting Engineer",
+    "applyUrl": "https://go.landed.jobs/6up58u4",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "mid",
+    "skills": [
+      "retrieval-augmented generation",
+      "Python",
+      "REST APIs",
+      "observability",
+      "vector databases"
+    ],
+    "posted": "2026-11-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$18.9B valuation",
+      "Public"
     ]
   }
 ]
